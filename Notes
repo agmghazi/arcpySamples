@@ -1,0 +1,20 @@
+Notes for Select_By_Location.py
+
+# The spatial relationship to be evaluated.
+
+# INTERSECT —The features in the input layer will be selected if they intersect a selecting feature. This is the default.
+# INTERSECT_3D —The features in the input layer will be selected if they intersect a selecting feature in three-dimensional space (x, y, and z).
+# WITHIN_A_DISTANCE —The features in the input layer will be selected if they are within a specified distance of a selecting feature. Specify a distance in the Search Distance parameter.
+# WITHIN_A_DISTANCE_3D —The features in the input layer will be selected if they are within a specified distance of a selecting feature in three-dimensional space. Specify a distance in the Search Distance parameter.
+# WITHIN_A_DISTANCE_GEODESIC —The features in the input layer will be selected if they are within a specified distance of a selecting feature. Distance between features will be calculated using a geodesic method which takes into account the curvature of the earth and correctly deals with data near and across the dateline and poles.
+# CONTAINS —The features in the input layer will be selected if they contain a selecting feature.
+# COMPLETELY_CONTAINS —The features in the input layer will be selected if they completely contain a selecting feature.
+# CONTAINS_CLEMENTINI —This spatial relationship yields the same results as COMPLETELY_CONTAINS with the following exception: if the selecting feature is entirely on the boundary of the input feature (no part is properly inside or outside), the feature will not be selected. Clementini defines the boundary polygon as the line separating inside and outside, the boundary of a line is defined as its end points, and the boundary of a point is always empty.
+# WITHIN —The features in the input layer will be selected if they are within a selecting feature.
+# COMPLETELY_WITHIN —The features in the input layer will be selected if they are completely within or contained by a selecting feature.
+# WITHIN_CLEMENTINI —The result will be identical to WITHIN with the exception that if the entirety of the feature in the input layer is on the boundary of the feature in the selecting layer, the feature will not be selected. Clementini defines the boundary polygon as the line separating inside and outside, the boundary of a line is defined as its end points, and the boundary of a point is always empty.
+# ARE_IDENTICAL_TO —The features in the input layer will be selected if they are identical (in geometry) to a selecting feature.
+# BOUNDARY_TOUCHES —The features in the input layer will be selected if they have a boundary that touches a selecting feature. When the inputs features are lines or polygons, the boundary of the input feature can only touch the boundary of the selecting feature, and no part of the input feature can cross the boundary of the selecting feature.
+# SHARE_A_LINE_SEGMENT_WITH —The features in the input layer will be selected if they share a line segment with a selecting feature. The input and selecting features must be line or polygon.
+# CROSSED_BY_THE_OUTLINE_OF —The features in the input layer will be selected if they are crossed by the outline of a selecting feature. The input and selecting features must be lines or polygons. If polygons are used for the input or selecting layer, the polygon's boundary (line) will be used. Lines that cross at a point will be selected, not lines that share a line segment.
+# HAVE_THEIR_CENTER_IN —The features in the input layer will be selected if their center falls within a selecting feature. The center of the feature is calculated as follows: for polygon and multipoint, the geometry's centroid is used, and for line input, the geometry's midpoint is used.

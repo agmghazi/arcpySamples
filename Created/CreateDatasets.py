@@ -10,8 +10,9 @@ arcpy.env.overwriteOutput = True    # this for re write new data in old data and
 
 # Creating a spatial reference object
 spatialref = arcpy.SpatialReference("D:\Applications\SHP for Arcpy\Ports.prj")
-# spatialref = arcpy.Describe("C:\Users\L\Downloads\Compressed\SHP for Arcpy\Ports.shp").spatialReference
-csvDataSets = r"D:\filetest\DataSetNames.csv"
+# spatialref = arcpy.Describe("D:\Applications\SHP for Arcpy\Ports.shp").spatialReference
+
+csvDataSets = r"D:\Applications\SHP for Arcpy\ArcPy Code\Created\Files\DataSetNames.csv"
 # Set local variables
 out_dataset_path = r"D:\filetest\out\DWHGDB.gdb" 
 fileGDB_path = r'D:\filetest\out'

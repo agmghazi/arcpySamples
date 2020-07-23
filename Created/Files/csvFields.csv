@@ -1,0 +1,52 @@
+HaiezAreaBoundry,POLYGON,UUID,TEXT,50,معرف عالمي
+HaiezAreaBoundry,POLYGON,Village_ID,TEXT,50,رمز القرية
+HaiezAreaBoundry,POLYGON,Village_Ar,TEXT,50,الإسم باللغة العربية
+HaiezAreaBoundry,POLYGON,Village_En,TEXT,50,الإسم باللغة الإنجليزية
+HaiezAreaBoundry,POLYGON,Village_Momra_Code,TEXT,50,الكود البلدي
+HaiezAreaBoundry,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+HaiezAreaBoundry,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+HaiezAreaBoundry,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+HaiezAreaBoundry,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+HaiezAreaBoundry,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
+HaiezAreaBoundry,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
+HaiezAreaBoundry,POLYGON,NearestCity_Ar,TEXT,50,الإسم باللغة العربية
+HaiezAreaBoundry,POLYGON,NearesCity_En,TEXT,50,الإسم باللغة الإنجليزية
+HaiezAreaBoundry,POLYGON,HaiezArea_Stage_Code,TEXT,50,مرحلة النطاق
+HaiezAreaBoundry,POLYGON,HaiezArea_Stage_Desc,TEXT,50,مرحلة النطاق
+UrbanAreaBoundary,POLYGON,UUID,TEXT,50,معرف عالمي
+UrbanAreaBoundary,POLYGON,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+UrbanAreaBoundary,POLYGON,City_Ar,TEXT,50,اسم المدينة عربي
+UrbanAreaBoundary,POLYGON,City_En,TEXT,50,اسم المدينة انجليزي
+UrbanAreaBoundary,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+UrbanAreaBoundary,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+UrbanAreaBoundary,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+UrbanAreaBoundary,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+UrbanAreaBoundary,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
+UrbanAreaBoundary,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
+UrbanAreaBoundary,POLYGON,UrbanArea_Stage_Desc,TEXT,50,مرحلة النطاق
+District_UrbanElements,POLYGON,UUID,TEXT,50,معرف عالمي
+District_UrbanElements,POLYGON,DistrictUrban_Ar,TEXT,50,الإسم بالغة العربية
+District_UrbanElements,POLYGON,DistrictUrban_En,TEXT,50,الإسم باللغة الإنجليزية
+District_UrbanElements,POLYGON,District_Momra_Code,TEXT,50,كود الوزارة للحي
+District_UrbanElements,POLYGON,Density_Type,TEXT,50,انواع الكثافات
+District_UrbanElements,POLYGON,Building_State,TEXT,50,حالة المباني
+District_UrbanElements,POLYGON,Planning_Status,TEXT,50,الحالة التخطيطية
+District_UrbanElements,POLYGON,Quality_Deveristy,TEXT,50,نوعية التنمية
+District_UrbanElements,POLYGON,CityCenter_Dimension,TEXT,50,البعد عن مركز المدينة
+District_UrbanElements,POLYGON,Topograghy,TEXT,50,الطبوغرافيا
+District_UrbanElements,POLYGON,Urban_Dev_Priority,TEXT,50,اولويات التنمية العمرانية
+District_UrbanElements,POLYGON,Municipality_Ar,TEXT,50,اسم البلدية عربي
+District_UrbanElements,POLYGON,Municipality_En,TEXT,50,اسم البلدية انجليزي
+District_UrbanElements,POLYGON,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+District_UrbanElements,POLYGON,City_Ar,TEXT,50,اسم المدينة عربي
+District_UrbanElements,POLYGON,City_En,TEXT,50,اسم المدينة انجليزي
+District_UrbanElements,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+District_UrbanElements,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+District_UrbanElements,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+District_UrbanElements,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+District_UrbanElements,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
+District_UrbanElements,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
+Planninng_District,POLYGON,UUID,TEXT,50,معرف عالمي
+Planninng_District,POLYGON,DistrictUrban_Ar,TEXT,50,الإسم بالغة العربية
+Planninng_District,POLYGON,DistrictUrban_En,TEXT,50,الإسم باللغة الإنجليزية
+Planninng_District,POLYGON,District_Momra_Code,TEXT,50,كود الوزارة للحي

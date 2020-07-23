@@ -4,10 +4,10 @@ import os
 
 arcpy.env.overwriteOutput = True    # this for re write new data in old data and replace it 
 arcpy.env.workspace = "D:\filetest\gdp\test.gdb"
-csvFields =r"D:\filetest\csvFields.csv"
-csvFeatures = r"D:\filetest\csvFeatures.csv"
+csvFields =r"D:\Applications\SHP for Arcpy\ArcPy Code\Created\Files\csvFields.csv"
+csvFeatures = r"D:\Applications\SHP for Arcpy\ArcPy Code\Created\Files\csvFeatures.csv"
 spatialref = arcpy.Describe("D:\Applications\SHP for Arcpy\Ports.shp").spatialReference
-featureClassPath = r'D:\filetest\gdp\test.gdb\fs' # "cane use this to create anything like shapefiles and feature class without datasets" featureClassPath = r'D:\filetest\out'
+featureClassPath = r'D:\filetest\out\DWHGDB.gdb\Ports'  # "cane use this to create anything like shapefiles and feature class without datasets" featureClassPath = r'D:\filetest\out'
 total_count = 0
 created_Point_count = 0
 created_Polygon_count = 0
@@ -43,7 +43,7 @@ for createFeatureRow in createFeatureReader:
 
     if createFeatureRow[1] == 'POINT':
      outName = createFeatureRow[0]
-     geometrytype ='POINT'
+     geometrytype = createFeatureRow[1]
      created_Point_count +=1
      
      CreateFeatureClassParameters = {"out_path" : featureClassPath,
@@ -59,7 +59,7 @@ for createFeatureRow in createFeatureReader:
                                 "spatial_grid_3" : None}
 
      arcpy.CreateFeatureclass_management(**CreateFeatureClassParameters)
-     print "successfully create Point Features: " +createFeatureRow[0]  
+     print "successfully create Point Feature: " + createFeatureRow[0]  
     elif createFeatureRow[1] == 'POLYGON':
      outName = createFeatureRow[0]
      geometrytype = createFeatureRow[1]
@@ -77,7 +77,7 @@ for createFeatureRow in createFeatureReader:
                                 "spatial_grid_3" : None}
 
      arcpy.CreateFeatureclass_management(**CreateFeatureClassParameters)
-     print "successfully create POLYGON Features: " +createFeatureRow[0]   
+     print "successfully create POLYGON Feature: " + createFeatureRow[0]   
     else :
      outName = createFeatureRow[0]
      geometrytype = createFeatureRow[1]
@@ -95,7 +95,7 @@ for createFeatureRow in createFeatureReader:
                                 "spatial_grid_3" : None}
 
      arcpy.CreateFeatureclass_management(**CreateFeatureClassParameters)
-     print "successfully create Polyline Features: " +createFeatureRow[0]
+     print "successfully create Polyline Feature: " + createFeatureRow[0]
 
 # Create the feature class.
 # arcpy.SetProgressorLabel("Creating feature class")
@@ -118,7 +118,7 @@ createFieldsReader = csv.reader(Csvcreatefields, "xls")
 for createFieldsRow in createFieldsReader:
  FieldsSecondRow.append(createFieldsRow)
  for fieldsAttributeRow in FieldsSecondRow:
-    print 'successfully create field: ' + fieldsAttributeRow[0]
+    print 'successfully create field: {} ::FOR:: feature: {} '.format(fieldsAttributeRow[2],fieldsAttributeRow[0])
  for x in featureBaseRow:
    if x == createFieldsRow[0]:
         # print  type(createFieldsRow[2])
@@ -126,12 +126,12 @@ for createFieldsRow in createFieldsReader:
        featureClassPathName = featureClassPath +'\\'+ createFieldsRow[0]
        AddFieldParameters = {"in_table" : featureClassPathName,
                           # "field_name" : row[headerdict["Field Name"]],
-                          "field_name" : fieldsAttributeRow[1],
-                          "field_type" : fieldsAttributeRow[2],
+                          "field_name" : fieldsAttributeRow[2],
+                          "field_type" : fieldsAttributeRow[3],
                           "field_precision" : None,
                           "field_scale" : None,
-                          "field_length" : fieldsAttributeRow[3],
-                          "field_alias" : fieldsAttributeRow[4],
+                          "field_length" : fieldsAttributeRow[4],
+                          "field_alias" : fieldsAttributeRow[5],
                           "field_is_nullable" : "NULLABLE",
                           "field_is_required" : "NON_REQUIRED",
                           "field_domain" : None}

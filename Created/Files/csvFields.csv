@@ -1,52 +1,147 @@
-HaiezAreaBoundry,POLYGON,UUID,TEXT,50,معرف عالمي
-HaiezAreaBoundry,POLYGON,Village_ID,TEXT,50,رمز القرية
-HaiezAreaBoundry,POLYGON,Village_Ar,TEXT,50,الإسم باللغة العربية
-HaiezAreaBoundry,POLYGON,Village_En,TEXT,50,الإسم باللغة الإنجليزية
-HaiezAreaBoundry,POLYGON,Village_Momra_Code,TEXT,50,الكود البلدي
-HaiezAreaBoundry,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
-HaiezAreaBoundry,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
-HaiezAreaBoundry,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
-HaiezAreaBoundry,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
-HaiezAreaBoundry,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
-HaiezAreaBoundry,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
-HaiezAreaBoundry,POLYGON,NearestCity_Ar,TEXT,50,الإسم باللغة العربية
-HaiezAreaBoundry,POLYGON,NearesCity_En,TEXT,50,الإسم باللغة الإنجليزية
-HaiezAreaBoundry,POLYGON,HaiezArea_Stage_Code,TEXT,50,مرحلة النطاق
-HaiezAreaBoundry,POLYGON,HaiezArea_Stage_Desc,TEXT,50,مرحلة النطاق
-UrbanAreaBoundary,POLYGON,UUID,TEXT,50,معرف عالمي
-UrbanAreaBoundary,POLYGON,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
-UrbanAreaBoundary,POLYGON,City_Ar,TEXT,50,اسم المدينة عربي
-UrbanAreaBoundary,POLYGON,City_En,TEXT,50,اسم المدينة انجليزي
-UrbanAreaBoundary,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
-UrbanAreaBoundary,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
-UrbanAreaBoundary,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
-UrbanAreaBoundary,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
-UrbanAreaBoundary,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
-UrbanAreaBoundary,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
-UrbanAreaBoundary,POLYGON,UrbanArea_Stage_Desc,TEXT,50,مرحلة النطاق
-District_UrbanElements,POLYGON,UUID,TEXT,50,معرف عالمي
-District_UrbanElements,POLYGON,DistrictUrban_Ar,TEXT,50,الإسم بالغة العربية
-District_UrbanElements,POLYGON,DistrictUrban_En,TEXT,50,الإسم باللغة الإنجليزية
-District_UrbanElements,POLYGON,District_Momra_Code,TEXT,50,كود الوزارة للحي
-District_UrbanElements,POLYGON,Density_Type,TEXT,50,انواع الكثافات
-District_UrbanElements,POLYGON,Building_State,TEXT,50,حالة المباني
-District_UrbanElements,POLYGON,Planning_Status,TEXT,50,الحالة التخطيطية
-District_UrbanElements,POLYGON,Quality_Deveristy,TEXT,50,نوعية التنمية
-District_UrbanElements,POLYGON,CityCenter_Dimension,TEXT,50,البعد عن مركز المدينة
-District_UrbanElements,POLYGON,Topograghy,TEXT,50,الطبوغرافيا
-District_UrbanElements,POLYGON,Urban_Dev_Priority,TEXT,50,اولويات التنمية العمرانية
-District_UrbanElements,POLYGON,Municipality_Ar,TEXT,50,اسم البلدية عربي
-District_UrbanElements,POLYGON,Municipality_En,TEXT,50,اسم البلدية انجليزي
-District_UrbanElements,POLYGON,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
-District_UrbanElements,POLYGON,City_Ar,TEXT,50,اسم المدينة عربي
-District_UrbanElements,POLYGON,City_En,TEXT,50,اسم المدينة انجليزي
-District_UrbanElements,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
-District_UrbanElements,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
-District_UrbanElements,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
-District_UrbanElements,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
-District_UrbanElements,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
-District_UrbanElements,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
-Planninng_District,POLYGON,UUID,TEXT,50,معرف عالمي
-Planninng_District,POLYGON,DistrictUrban_Ar,TEXT,50,الإسم بالغة العربية
-Planninng_District,POLYGON,DistrictUrban_En,TEXT,50,الإسم باللغة الإنجليزية
-Planninng_District,POLYGON,District_Momra_Code,TEXT,50,كود الوزارة للحي
+Chambers_,POINT,UUID,TEXT,50,معرف عالمي
+Chambers_,POINT,SewerChambers__Desc_Ar,TEXT,50,وصف الغرفة باللغة العربية
+Chambers_,POINT,SewerChambers__Desc_En,TEXT,50,وصف غرفة الصرف - عربي
+Chambers_,POINT,Type_ID,TEXT,50,وصف غرفة الصرف - انجليزي
+Chambers_,POINT,SW_Flow_Type_ID,TEXT,50,معرف نوع التدفق
+Chambers_,POINT,Diameter,TEXT,50,القطر
+Chambers_,POINT,Contract_No,TEXT,50,رقم العقد
+Chambers_,POINT,City_ID,TEXT,50,رمز المدينة
+Chambers_,POINT,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+Chambers_,POINT,City_Ar,TEXT,50,اسم المدينة عربي
+Chambers_,POINT,City_En,TEXT,50,اسم المدينة انجليزي
+Chambers_,POINT,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+Chambers_,POINT,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+Chambers_,POINT,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+Chambers_,POINT,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+Chambers_,POINT,Region_Ar,TEXT,50,اسم المنطقة عربي
+Chambers_,POINT,Region_En,TEXT,50,اسم المنطقة انجليزي
+Chambers_,POINT,Created_User,TEXT,50,اسم المستخدم
+Chambers_,POINT,Last_Edited_User,TEXT,50,اسم اخر مستخدم
+Chambers_,POINT,Operation_Type,TEXT,50,نوع العملية
+Chambers_,POINT,Data_Provider,TEXT,50,مصدر البيانات
+Chambers_,POINT,Org_Desc,TEXT,50,وصف الجهة
+Structures_,POLYGON,UUID,TEXT,50,معرف عالمي
+Structures_,POLYGON,SewerStructures__Desc_Ar,TEXT,50,وصف منشأة الصرف - عربي
+Structures_,POLYGON,SewerStructures__Desc_En,TEXT,50,وصف منشأة الصرف - انجليزي
+Structures_,POLYGON,Type,TEXT,50,النوع
+Structures_,POLYGON,Status,TEXT,50,الحالة
+Structures_,POLYGON,Material_type,TEXT,50,مادة الصنع
+Structures_,POLYGON,Installation_date,TEXT,50,تاريخ الانشاء
+Structures_,POLYGON,Operational_date,TEXT,50,تاريخ التشغيل
+Structures_,POLYGON,Contractor,TEXT,50,المقاول
+Structures_,POLYGON,City_ID,TEXT,50,رمز المدينة
+Structures_,POLYGON,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+Structures_,POLYGON,City_Ar,TEXT,50,اسم المدينة عربي
+Structures_,POLYGON,City_En,TEXT,50,اسم المدينة انجليزي
+Structures_,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+Structures_,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+Structures_,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+Structures_,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+Structures_,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
+Structures_,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
+Structures_,POLYGON,Created_User,TEXT,50,اسم المستخدم
+Structures_,POLYGON,Last_Edited_User,TEXT,50,اسم اخر مستخدم
+Structures_,POLYGON,Operation_Type,TEXT,50,نوع العملية
+Structures_,POLYGON,Data_Provider,TEXT,50,مصدر البيانات
+Structures_,POLYGON,Org_Desc,TEXT,50,وصف الجهة
+Manholes,POINT,UUID,TEXT,50,معرف عالمي
+Manholes,POINT,SewerManholes_Desc_Ar,TEXT,50,وصف المانهول - عربي
+Manholes,POINT,SewerManholes_Desc_En,TEXT,50,وصف المانهول - انجليزي
+Manholes,POINT,Invert_level,TEXT,50,منسوب القاع
+Manholes,POINT,Cover_level,TEXT,50,منسوب الغطاء
+Manholes,POINT,Cover_material,TEXT,50,مادة صنع الغطاء
+Manholes,POINT,Dimension,TEXT,50,الابعاد
+Manholes,POINT,City_ID,TEXT,50,رمز المدينة
+Manholes,POINT,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+Manholes,POINT,City_Ar,TEXT,50,اسم المدينة عربي
+Manholes,POINT,City_En,TEXT,50,اسم المدينة انجليزي
+Manholes,POINT,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+Manholes,POINT,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+Manholes,POINT,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+Manholes,POINT,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+Manholes,POINT,Region_Ar,TEXT,50,اسم المنطقة عربي
+Manholes,POINT,Region_En,TEXT,50,اسم المنطقة انجليزي
+Manholes,POINT,Created_User,TEXT,50,اسم المستخدم
+Manholes,POINT,Last_Edited_User,TEXT,50,اسم اخر مستخدم
+Manholes,POINT,Operation_Type,TEXT,50,نوع العملية
+Manholes,POINT,Data_Provider,TEXT,50,مصدر البيانات
+Manholes,POINT,Org_Desc,TEXT,50,وصف الجهة
+PipePOLYLINEs_,POLYLINE,UUID,TEXT,50,معرف عالمي
+PipePOLYLINEs_,POLYLINE,SewerPipePOLYLINEs__Desc_Ar,TEXT,50,وصف خط الصرف - عربي
+PipePOLYLINEs_,POLYLINE,SewerPipePOLYLINEs__Desc_En,TEXT,50,وصف خط الصرف - انجليزي
+PipePOLYLINEs_,POLYLINE,Type,TEXT,50,النوع
+PipePOLYLINEs_,POLYLINE,SW_Flow_Type,TEXT,50,نوع التدفق
+PipePOLYLINEs_,POLYLINE,Material,TEXT,50,المادة
+PipePOLYLINEs_,POLYLINE,Diameter,TEXT,50,القطر
+PipePOLYLINEs_,POLYLINE,Contract_No,TEXT,50,رقم العقد
+PipePOLYLINEs_,POLYLINE,Contractor,TEXT,50,المقاول
+PipePOLYLINEs_,POLYLINE,Start_POINT,TEXT,50,احداثي نقطة البداية
+PipePOLYLINEs_,POLYLINE,End_POINT,TEXT,50,احداثي نقطة النهاية
+PipePOLYLINEs_,POLYLINE,Source_ID,TEXT,50,معرف
+PipePOLYLINEs_,POLYLINE,City_ID,TEXT,50,رمز المدينة
+PipePOLYLINEs_,POLYLINE,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+PipePOLYLINEs_,POLYLINE,City_Ar,TEXT,50,اسم المدينة عربي
+PipePOLYLINEs_,POLYLINE,City_En,TEXT,50,اسم المدينة انجليزي
+PipePOLYLINEs_,POLYLINE,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+PipePOLYLINEs_,POLYLINE,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+PipePOLYLINEs_,POLYLINE,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+PipePOLYLINEs_,POLYLINE,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+PipePOLYLINEs_,POLYLINE,Region_Ar,TEXT,50,اسم المنطقة عربي
+PipePOLYLINEs_,POLYLINE,Region_En,TEXT,50,اسم المنطقة انجليزي
+PipePOLYLINEs_,POLYLINE,Municipality_Ar,TEXT,50,اسم البلدية عربي
+PipePOLYLINEs_,POLYLINE,Municipality_En,TEXT,50,اسم البلدية انجليزي
+PipePOLYLINEs_,POLYLINE,Created_User,TEXT,50,اسم المستخدم
+PipePOLYLINEs_,POLYLINE,Last_Edited_User,TEXT,50,اسم اخر مستخدم
+PipePOLYLINEs_,POLYLINE,Operation_Type,TEXT,50,نوع العملية
+PipePOLYLINEs_,POLYLINE,Data_Provider,TEXT,50,مصدر البيانات
+PipePOLYLINEs_,POLYLINE,Org_Desc,TEXT,50,وصف الجهة
+PipePOLYLINEs_Buffer,POLYGON,UUID,TEXT,50,معرف عالمي
+PipePOLYLINEs_Buffer,POLYGON,SewerPipePOLYLINEs__Desc_Ar,TEXT,50,وصف حرم خط الصرف - عربي
+PipePOLYLINEs_Buffer,POLYGON,SewerPipePOLYLINEs__Desc_En,TEXT,50,وصف حرم خط الصرف - عربي
+PipePOLYLINEs_Buffer,POLYGON,Type,TEXT,50,النوع
+PipePOLYLINEs_Buffer,POLYGON,SW_Flow_Type,TEXT,50,نوع التدفق
+PipePOLYLINEs_Buffer,POLYGON,Material,TEXT,50,المادة
+PipePOLYLINEs_Buffer,POLYGON,Diameter,TEXT,50,القطر
+PipePOLYLINEs_Buffer,POLYGON,Contract_No,TEXT,50,رقم العقد
+PipePOLYLINEs_Buffer,POLYGON,Contractor,TEXT,50,المقاول
+PipePOLYLINEs_Buffer,POLYGON,Start_POINT,TEXT,50,احداثي نقطة البداية
+PipePOLYLINEs_Buffer,POLYGON,End_POINT,TEXT,50,احداثي نقطة النهاية
+PipePOLYLINEs_Buffer,POLYGON,Source_ID,TEXT,50,معرف
+PipePOLYLINEs_Buffer,POLYGON,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+PipePOLYLINEs_Buffer,POLYGON,City_Ar,TEXT,50,اسم المدينة عربي
+PipePOLYLINEs_Buffer,POLYGON,City_En,TEXT,50,اسم المدينة انجليزي
+PipePOLYLINEs_Buffer,POLYGON,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+PipePOLYLINEs_Buffer,POLYGON,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+PipePOLYLINEs_Buffer,POLYGON,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+PipePOLYLINEs_Buffer,POLYGON,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+PipePOLYLINEs_Buffer,POLYGON,Region_Ar,TEXT,50,اسم المنطقة عربي
+PipePOLYLINEs_Buffer,POLYGON,Region_En,TEXT,50,اسم المنطقة انجليزي
+PipePOLYLINEs_Buffer,POLYGON,Created_User,TEXT,50,اسم المستخدم
+PipePOLYLINEs_Buffer,POLYGON,Last_Edited_User,TEXT,50,اسم اخر مستخدم
+PipePOLYLINEs_Buffer,POLYGON,Operation_Type,TEXT,50,نوع العملية
+PipePOLYLINEs_Buffer,POLYGON,Data_Provider,TEXT,50,مصدر البيانات
+PipePOLYLINEs_Buffer,POLYGON,Org_Desc,TEXT,50,وصف الجهة
+PumpStations_,POINT,UUID,TEXT,50,معرف عالمي
+PumpStations_,POINT,PumpStations__Desc_Ar,TEXT,50,وصف محطة الضخ - عربي
+PumpStations_,POINT,PumpStations__Desc_En,TEXT,50,وصف محطة الضخ - انجليزي
+PumpStations_,POINT,Type,TEXT,50,النوع
+PumpStations_,POINT,Address,TEXT,50,العنوان
+PumpStations_,POINT,Height,TEXT,50,الارتفاع
+PumpStations_,POINT,Contractor,TEXT,50,المقاول
+PumpStations_,POINT,Project_No,TEXT,50,رقم المشروع
+PumpStations_,POINT,Lifetime,TEXT,50,فترة الصلاحية
+PumpStations_,POINT,Installation_date,TEXT,50,تاريخ التركيب
+PumpStations_,POINT,City_Momra_Code,TEXT,50,كود الوزارة للمدينة
+PumpStations_,POINT,City_Ar,TEXT,50,اسم المدينة عربي
+PumpStations_,POINT,City_En,TEXT,50,اسم المدينة انجليزي
+PumpStations_,POINT,Gov_Momra_Code,TEXT,50,كود الوزارة للمحافظة
+PumpStations_,POINT,Governorate_Ar,TEXT,50,اسم المحافظة عربي
+PumpStations_,POINT,Governorate_En,TEXT,50,اسم المحافظة انجليزي
+PumpStations_,POINT,Reg_Momra_Code,TEXT,50,كود الوزارة للمنطقة
+PumpStations_,POINT,Region_Ar,TEXT,50,اسم المنطقة عربي
+PumpStations_,POINT,Region_En,TEXT,50,اسم المنطقة انجليزي
+PumpStations_,POINT,Created_User,TEXT,50,اسم المستخدم
+PumpStations_,POINT,Last_Edited_User,TEXT,50,اسم اخر مستخدم
+PumpStations_,POINT,Operation_Type,TEXT,50,نوع العملية
+PumpStations_,POINT,Data_Provider,TEXT,50,مصدر البيانات
+PumpStations_,POINT,Org_Desc,TEXT,50,وصف الجهة

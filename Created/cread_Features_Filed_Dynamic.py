@@ -7,7 +7,7 @@ arcpy.env.workspace = "D:\filetest\gdp\test.gdb"
 csvFields =r"D:\Applications\SHP for Arcpy\ArcPy Code\Created\Files\csvFields.csv"
 csvFeatures = r"D:\Applications\SHP for Arcpy\ArcPy Code\Created\Files\csvFeatures.csv"
 spatialref = arcpy.Describe("D:\Applications\SHP for Arcpy\Ports.shp").spatialReference
-featureClassPath = r'D:\filetest\out\DWHGDB.gdb\Ports'  # "cane use this to create anything like shapefiles and feature class without datasets" featureClassPath = r'D:\filetest\out'
+featureClassPath = r'D:\filetest\out\DWHGDB.gdb\Sewers'  # "cane use this to create anything like shapefiles and feature class without datasets" featureClassPath = r'D:\filetest\out'
 total_count = 0
 created_Point_count = 0
 created_Polygon_count = 0
@@ -118,7 +118,7 @@ createFieldsReader = csv.reader(Csvcreatefields, "xls")
 for createFieldsRow in createFieldsReader:
  FieldsSecondRow.append(createFieldsRow)
  for fieldsAttributeRow in FieldsSecondRow:
-    print 'successfully create field: {} ::FOR:: feature: {} '.format(fieldsAttributeRow[2],fieldsAttributeRow[0])
+    print 'Create field: ..{}.. Alias: ..{}.. Feature: ..{}.. '.format(fieldsAttributeRow[2],fieldsAttributeRow[5],fieldsAttributeRow[0])
  for x in featureBaseRow:
    if x == createFieldsRow[0]:
         # print  type(createFieldsRow[2])

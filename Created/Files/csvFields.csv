@@ -1,4 +1,4 @@
-Chambers_,POINT,UUID,TEXT,50,معرف عالمي
+Ch,POINT,UUID,TEXT,50,معرف عالمي
 Chambers_,POINT,SewerChambers__Desc_Ar,TEXT,50,وصف الغرفة باللغة العربية
 Chambers_,POINT,SewerChambers__Desc_En,TEXT,50,وصف غرفة الصرف - عربي
 Chambers_,POINT,Type_ID,TEXT,50,وصف غرفة الصرف - انجليزي

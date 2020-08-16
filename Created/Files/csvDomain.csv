@@ -1,5 +1,62 @@
-DomainName,Description,CodedValue,codedDescription
-matrials,Descriptionn,1,matrials
-matrialv,Descriptiond,2,matrials
-matrialsm,Descriptioner,2,matrials
-matrialm,Descriptions,3,matrialsm
+Netaq_Stages,مراحل النطاق العمراني للمدن
+Haiez_Types,أنوع الحيز العمراني للقري
+Plan_Ownership_Types,انواع الملكيات للمخططات
+Plan_Status,حالة المخطط من الإعتماد
+Plan_Types,نوع المخطط
+Building_Elec_Source,مصدر الكهرباء للمبني
+Building_Material_Type,مادة بناء المبنى
+Building_Status,حالة المبنى
+Building_Swer_Type,نوع الصرف الصحي بالمبنى
+Building_Telecom_Source,مصدر الإتصالات بالمبنى
+Building_Water_Source,مصادر المياه بالمبنى
+PlanSubdivision_Types,أنواع التقسيمات بالمخطط
+Bridge_Types,أنواع الجسور
+Servie_Status_Indicator,الحالة من حيث الخدمة
+RoadSign_Types,أنواع اللوحات الإرشادية
+Traffic_Light_Types,أنواع حاملات الإشارات المرورية
+Construction_Conditions,حالة الإنشاء
+Contruction_Situation,الوضع الإنشائي
+Status_Description,
+Street_classification,
+Service_Status,
+Pavment_Status,
+Lighted_status,
+Traffic_Sign,
+Intersection_Type,
+Device_Type,
+working_Friday,
+need_Board,
+Counter_needing,
+Status_Desc,
+Fuse_indicator,
+Earthen_Exist,
+Foundation_type,
+Construction_Status,
+Port_Function,
+Archeopart_Subtype,
+Occupation_Status,
+Investe_Status,
+PipeLine_Diameter,
+PumpStationType,
+WaterStructure_Type,
+WaterSysValve_Type,
+Need_add_board,
+Pipe_Line_Material,
+Education_level,
+Health_Service_Type,
+Relegion_Service_Type,
+Yes_No,
+Solid_wasteType,
+Water_Source_Type,
+Well_use_type,
+ATM_status_Code,
+Dig_Licence_Type,
+Soil_Type_Classification,
+SCS_Soil_Category,
+Reserves_Type,
+LIC_BLD_Trans_Types,حالات الإجراءات على رخصة البناء
+LIC_SHP_Trans_Types,حالات الإجراءات على الرخصة التشغيلية
+Digging_Status,حالاترخصة الحفرية
+Main_LanduseClassification,
+Branch_LanduseClassification,
+Detailed_LanduseClassification,

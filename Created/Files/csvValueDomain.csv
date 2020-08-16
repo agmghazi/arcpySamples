@@ -1,0 +1,1838 @@
+Netaq_Stages,1101,مرحلة النطاق العمراني 1440
+Netaq_Stages,1102,مرحلة النطاق العمراني 1445
+Netaq_Stages,1103,مرحلة النطاق العمراني 1450
+Netaq_Stages,1104,حد حماية التنمية العمرانية
+Haiez_Types,1,حيز عمراني دائم
+Haiez_Types,2,حيز عمراني مؤقت
+Plan_Ownership_Types,1,خاص
+Plan_Ownership_Types,2,حكومي
+Plan_Ownership_Types,3,ارامكو
+Plan_Ownership_Types,4,غير معرف
+Plan_Status,1,معتمد
+Plan_Status,2,غير معتمد
+Plan_Status,3,ملغي
+Plan_Status,4,موقوف
+Plan_Types,0,غير معرف
+Plan_Types,1,مخطط تقسيمات أراضي
+Plan_Types,2,خط تنظيم موقع
+Plan_Types,3,مخطط شارع
+Plan_Types,4,مخطط مدرسة
+Plan_Types,5,مخطط مسجد
+Plan_Types,6,مخطط نزع ملكية
+Building_Elec_Source,1,شبكة الكهرباء
+Building_Elec_Source,2,مولدات خاصة
+Building_Elec_Source,3,أخرى تذكر
+Building_Material_Type,1,خرسانة
+Building_Material_Type,2,معدنى
+Building_Material_Type,3,خشبي
+Building_Material_Type,4,مباني جاهزة
+Building_Material_Type,5,أخرى
+Building_Status,1,جيد
+Building_Status,2,متوسط
+Building_Status,3,ردىء
+Building_Status,4,تحت الإنشاء
+Building_Swer_Type,1,شبكة صرف صحي
+Building_Swer_Type,2,بيارات
+Building_Swer_Type,3,أخرى
+Building_Telecom_Source,1,هاتف ثابت
+Building_Telecom_Source,2,شبكة جوال
+Building_Telecom_Source,3,هاتف ثابت وشبكة جوال
+Building_Telecom_Source,4,أقمار صناعية
+Building_Telecom_Source,5,غير متوفرة
+Building_Telecom_Source,6,أخرى
+Building_Telecom_Source,1,شبكة مياه
+Building_Telecom_Source,2,أبار
+Building_Telecom_Source,3,وايتات
+Building_Telecom_Source,4,أخرى
+PlanSubdivision_Types,2,مجاورة
+PlanSubdivision_Types,3,منطقة
+PlanSubdivision_Types,1,فئة
+PlanSubdivision_Types,4,مركز الحى
+PlanSubdivision_Types,5,مرحلة
+Bridge_Types,3,جسور مركبات
+Bridge_Types,3,جسور مشاه
+Bridge_Types,4,أخرى
+Servie_Status_Indicator,1,فى الخدمة
+Servie_Status_Indicator,2,خارج الخدمة
+Servie_Status_Indicator,3,تحت الإنشاء
+Servie_Status_Indicator,4,مقترح
+Servie_Status_Indicator,5,مؤقت
+Servie_Status_Indicator,100,غيرمعروف
+Servie_Status_Indicator,1,فى الخدمة
+Servie_Status_Indicator,2,خارج الخدمة
+Servie_Status_Indicator,3,تحت الإنشاء
+Servie_Status_Indicator,4,مقترح
+Servie_Status_Indicator,5,مؤقت
+Servie_Status_Indicator,100,غيرمعروف
+Servie_Status_Indicator,1,فى الخدمة
+Servie_Status_Indicator,2,خارج الخدمة
+Servie_Status_Indicator,3,تحت الإنشاء
+Servie_Status_Indicator,4,مقترح
+Servie_Status_Indicator,5,مؤقت
+Servie_Status_Indicator,100,غيرمعروف
+RoadSign_Types,7,لوحة إعلانات
+RoadSign_Types,5,شاشة عرض إعلانية
+RoadSign_Types,6,ارشادية
+RoadSign_Types,1,علامة مزدوجةلشارع
+RoadSign_Types,2,علامة مزدوجةلحي
+RoadSign_Types,3,علامةلجسر
+RoadSign_Types,4,علامة لكابولي
+RoadSign_Types,100,غير محدد
+RoadSign_Types,8,شاشة ليد إعلانية
+RoadSign_Types,9,علامة لرادار
+Traffic_Light_Types,1,عمود
+Traffic_Light_Types,2,قنطرة
+Construction_Conditions,1,ممتاز
+Construction_Conditions,2,جيد جدا
+Construction_Conditions,3,جيد
+Construction_Conditions,4,مقبول
+Construction_Conditions,5,ضعيف
+Contruction_Situation,1,منفذ
+Contruction_Situation,2,تحت التنفيذ
+Contruction_Situation,3,مقترح
+Contruction_Situation,4,مهجور
+Contruction_Situation,5,خارج الخدمة
+,,
+Status_Description,1,جيد
+Status_Description,2,متوسط
+Status_Description,3,ردىء
+Status_Description,4,تحت الإنشاء
+Street_classification,1,دولي
+Street_classification,2,سريع
+Street_classification,3,شرياني
+Street_classification,4,تجميعي
+Street_classification,5,ثانوي
+Street_classification,6,محلي
+Street_classification,7,أخرى
+Service_Status,1,فى الخدمة
+Service_Status,2,خارج الخدمة
+Service_Status,3,تحت الإنشاء
+Service_Status,4,مقترح
+Pavment_Status,1,جيد
+Pavment_Status,2,متوسط
+Pavment_Status,3,ردىء
+Lighted_status,1,نعم
+Lighted_status,2,لا
+Traffic_Sign,1,نعم
+Traffic_Sign,2,لا
+Intersection_Type,1,تقاطع ثلاثي
+Intersection_Type,2,تقاطع رباعي
+Intersection_Type,3,تقاطع خماسي
+Intersection_Type,4,دوار
+Intersection_Type,5,أخرى
+Device_Type,1,ADR
+Device_Type,2,رادار
+Device_Type,3,كاميرا
+Device_Type,4,أخرى
+working_Friday,1,نعم
+working_Friday,2,لا
+need_Board,1,نعم
+need_Board,2,لا
+Counter_needing,1,نعم
+Counter_needing,2,لا
+Status_Desc,1,فى الخدمة
+Status_Desc,2,خارج الخدمة
+Status_Desc,3,تحت الإنشاء
+Status_Desc,4,مقترح
+Fuse_indicator,1,نعم
+Fuse_indicator,2,لا
+Earthen_Exist,1,نعم
+Earthen_Exist,2,لا
+Foundation_type,1,معدن
+Foundation_type,2,خرسانة
+Foundation_type,3,خرسانة ومعدن
+Foundation_type,4,أخرى
+Service_Status,1,يعمل
+Service_Status,2,لا يعمل
+Service_Status,3,مقترح
+Service_Status,4,تحت الإنشاء
+Construction_Status,1,يعمل
+Construction_Status,2,لا يعمل
+Construction_Status,3,مقترح
+Construction_Status,4,تحت الإنشاء
+Port_Function,1,نقل ركاب
+Port_Function,2,نقل بضائع
+Port_Function,3,ركاب وبضائع
+Port_Function,4,نقل بترول
+Port_Function,5,عسكري
+Port_Function,6,أخرى
+Archeopart_Subtype,1,العصر الحجري
+Archeopart_Subtype,2,العصر النحاسي
+Archeopart_Subtype,3,العصر البرونزي
+Archeopart_Subtype,4,العصر الحديدي
+Archeopart_Subtype,5,العصور القديمة
+Archeopart_Subtype,6,صدر الاسلام
+Archeopart_Subtype,7,الدولة الأموية
+Archeopart_Subtype,8,الدولة العباسية
+Archeopart_Subtype,9,العهد العثماني
+Archeopart_Subtype,10,الدولة السعودية الأولى
+Archeopart_Subtype,11,الدولة السعودية الثانية
+Archeopart_Subtype,12,الدولة السعودية الثالثة
+Archeopart_Subtype,13,المملكة العربية السعودية
+Archeopart_Subtype,14,اخرى
+Occupation_Status,1,مستخدم
+Occupation_Status,2,غير مستخدم
+Investe_Status,1,مستثمر
+Investe_Status,2,غير مستثمر
+PipeLine_Diameter,1,200
+PipeLine_Diameter,2,250
+PipeLine_Diameter,3,300
+PipeLine_Diameter,4,350
+PipeLine_Diameter,5,400
+PipeLine_Diameter,6,450
+PipeLine_Diameter,7,500
+PipeLine_Diameter,8,550
+PipeLine_Diameter,9,600
+PipeLine_Diameter,10,650
+PipeLine_Diameter,11,700
+PipeLine_Diameter,12,750
+PipeLine_Diameter,13,800
+PipeLine_Diameter,14,850
+PipeLine_Diameter,15,900
+PipeLine_Diameter,16,950
+PipeLine_Diameter,17,1000
+PipeLine_Diameter,18,1100
+PipeLine_Diameter,19,1150
+PipeLine_Diameter,20,1200
+PipeLine_Diameter,21,1300
+PipeLine_Diameter,22,1400
+PipeLine_Diameter,23,1500
+PipeLine_Diameter,24,1600
+PipeLine_Diameter,25,1700
+PipeLine_Diameter,26,1800
+PipeLine_Diameter,27,2000
+PipeLine_Diameter,28,Other
+PumpStationType,1,Axial Flow
+PumpStationType,2,Centrifugal
+PumpStationType,3,Jet
+PumpStationType,4,Reciprocating
+PumpStationType,5,Rotary
+PumpStationType,6,Screw
+PumpStationType,7,Submersible
+PumpStationType,8,Sump
+PumpStationType,9,Turbine
+PumpStationType,10,Other
+WaterStructure_Type,1,محطة رفع
+WaterStructure_Type,2,محطة تنقية
+WaterStructure_Type,3,محطة تحلية
+WaterStructure_Type,4,محطة توزيع
+WaterStructure_Type,5,خزان
+WaterStructure_Type,5,أخرى
+WaterSysValve_Type,1,Isolation Valve
+WaterSysValve_Type,2,Check Valve
+WaterSysValve_Type,3,Flow Regulation Valve
+WaterSysValve_Type,4,Presure Regulation Valve
+WaterSysValve_Type,5,Air Release Valve
+WaterSysValve_Type,6,Washout Valve
+WaterSysValve_Type,7,Other
+Need_add_board,1,نعم
+Need_add_board,2,لا
+Pipe_Line_Material,1,Asbestos Cement
+Pipe_Line_Material,2,Ductile Iron
+Pipe_Line_Material,3,Glass Fiber Reinforced Plastics
+Pipe_Line_Material,4,PVC
+Pipe_Line_Material,5,Reinforced Concrete
+Pipe_Line_Material,6,Steel
+Pipe_Line_Material,7,Vitrified Clay Pipe Extra Stringth
+Pipe_Line_Material,8,Vitrified Clay Pipe Standard Stringth
+Pipe_Line_Material,9,Other
+Education_level,1,تعليم جامعي حكومي
+Education_level,2,تعليم جامعي خاص
+Education_level,3,معهد حكومي
+Education_level,4,معهد خاص
+Education_level,5,ثانوي نموذجي بنين
+Education_level,6,ثانوي نموذجي بنات
+Education_level,7,ثانوي عادي بنين
+Education_level,8,ثانوي عادي بنات
+Education_level,9,تحفيظ قران ثانوي بنين
+Education_level,10,تحفيظ قران ثانوي بنات
+Education_level,11,ثانوي خاص
+Education_level,12,ثانوي فني
+Education_level,13,متوسط بنين
+Education_level,14,متوسط بنات
+Education_level,15,تحفيظ قران متوسط بنين
+Education_level,16,تحفيظ قران متوسط بنات
+Education_level,17,متوسط خاص
+Education_level,18,ابتدائي بنين
+Education_level,19,ابتدائي بنات
+Education_level,20,ابتدائي بنين وبنات
+Education_level,21,تحفيظ قران بنين
+Education_level,22,تحفيظ قران بنات
+Education_level,23,تحفيظ قران بنين وبنات
+Education_level,24,ابتدائي خاص
+Education_level,25,روضة بنين
+Education_level,26,روضة بنات
+Education_level,27,روضة بنين وبنات
+Education_level,28,روضة خاص
+Education_level,29,مدرسة احتياجات خاص
+Education_level,30,أخرى
+Health_Service_Type,1,مستشفى جامعي
+Health_Service_Type,2,مستشفى عسكري
+Health_Service_Type,3,مستشفى حكومي عام
+Health_Service_Type,4,مستشفى خاص
+Health_Service_Type,5,مستشفى عيون
+Health_Service_Type,6,مستشفى صحة نفسية
+Health_Service_Type,7,مستشفى أمراض جلدية
+Health_Service_Type,8,مستشفى عظام
+Health_Service_Type,9,مستشفى نساء وولادة
+Health_Service_Type,10,مستشفى حميات
+Health_Service_Type,11,مستشفى علاج الأدمان
+Health_Service_Type,12,مستشفى أمراض صدرية
+Health_Service_Type,13,مستشفى أطفال
+Health_Service_Type,14,عيادة
+Health_Service_Type,15,مجمع عيادات
+Health_Service_Type,16,مستوصف أهلي
+Health_Service_Type,17,مراكز صحية
+Health_Service_Type,18,وحدة صحية مدرسية
+Health_Service_Type,19,مركز تجميل
+Health_Service_Type,20,مركز تصحيح نظر
+Health_Service_Type,21,مركز رعاية أمومة وطفولة
+Health_Service_Type,22,عيادة أسنان
+Health_Service_Type,23,أخرى
+Relegion_Service_Type,1,المسجد الحرام
+Relegion_Service_Type,2,المسجد النبوي
+Relegion_Service_Type,3,مصلى عيد
+Relegion_Service_Type,4,مسجد جامع
+Relegion_Service_Type,5,مسجد محلي
+Relegion_Service_Type,6,مراكز الدعوة والارشاد
+Relegion_Service_Type,7,موقع مناسك حج وعمرة
+Relegion_Service_Type,10,جمعيات دينية
+Relegion_Service_Type,11,مراكز تحفيظ قران
+Relegion_Service_Type,12,مطابع دينية
+Relegion_Service_Type,13,مطابع المصحف الشريف
+Relegion_Service_Type,14,أخرى
+Yes_No,1,نعم
+Yes_No,2,لا
+Solid_wasteType,1,صناعية
+Solid_wasteType,2,زراعية
+Solid_wasteType,3,منزلية
+Solid_wasteType,4,مخلفات تعدين
+Solid_wasteType,5,ركام هدم
+Solid_wasteType,6,مخلفات بناء
+Solid_wasteType,7,نفايات محطات المعالجة
+Solid_wasteType,8,مختلط
+Solid_wasteType,9,أخرى
+Water_Source_Type,1,مياه مالحة
+Water_Source_Type,2,مياه أمطار
+Water_Source_Type,3,مياه صرف زراعي
+Water_Source_Type,4,مياه صرف صحي
+Water_Source_Type,5,مياه صرف
+Water_Source_Type,6,مياه جوفية عذبة
+Water_Source_Type,7,مياه جوفية مالحة
+Water_Source_Type,8,أخرى
+Well_use_type,1,الزراعة
+Well_use_type,2,مياه شرب
+Well_use_type,3,صناعة
+Well_use_type,4,أخرى
+Service_Status,1,نعم
+Service_Status,2,لا
+ATM_status_Code,1,في الخدمة
+ATM_status_Code,2,خارج الخدمة
+ATM_status_Code,3,مقترح
+Dig_Licence_Type,1,دقيق
+Dig_Licence_Type,2,ثقبي
+Dig_Licence_Type,3,مفتوح
+Dig_Licence_Type,4,أخرى
+Soil_Type_Classification,1,Calcaric Arenosols - Lithic Leptosols
+Soil_Type_Classification,2,Calcaric Cambisois
+Soil_Type_Classification,3,Calcaric Fluvisols - Calcaric Arenosols - Haplic Calcisols
+Soil_Type_Classification,4,Calcaric Regosols - Lithic Leptosols - Haplic Calcisols - Rock outcrop
+Soil_Type_Classification,5,Eutic Gleysols - Gleyic Cambisols
+Soil_Type_Classification,6,Gleyic & Calcaric Arenosols
+Soil_Type_Classification,7,Haplic Calcisols
+Soil_Type_Classification,8,Lava stones - Calcaric Cambisols
+Soil_Type_Classification,9,Lithic & Eutric Leptosols - Rock outcrop - Calcaric Regasols
+Soil_Type_Classification,10,Petric Gypsols - Gypsic Solonchaks - Haplic Calcisols
+Soil_Type_Classification,11,Rock outcrop - Lithic Leptosols - Calcaric Regasols
+Soil_Type_Classification,12,Salic Fluvisols - Water area
+Soil_Type_Classification,13,Others
+SCS_Soil_Category,1,A
+SCS_Soil_Category,2,B
+SCS_Soil_Category,3,C
+SCS_Soil_Category,4,D
+Reserves_Type,1,محمية نباتية
+Reserves_Type,2,محمية حيوانية
+Reserves_Type,3,محمية بحرية
+Reserves_Type,4,أخرى
+LIC_BLD_Trans_Types,120,طلب رخصة بناء جديد
+LIC_BLD_Trans_Types,121,تجديد رخصة بناء
+LIC_BLD_Trans_Types,122,نقل ملكية رخصة بناء
+LIC_BLD_Trans_Types,125,لغاء رخصة بناء
+LIC_SHP_Trans_Types,101,طلب جديد
+LIC_SHP_Trans_Types,102,تجديد رخصة
+LIC_SHP_Trans_Types,103,نقلملكية
+LIC_SHP_Trans_Types,104,تغيير لوحات
+LIC_SHP_Trans_Types,105,تغيير مساحةمحل
+LIC_SHP_Trans_Types,106,تغيرنشاط
+LIC_SHP_Trans_Types,110,الغاءرخصة
+Digging_Status,1,الرخص التي انتهت المدة ولم يبدا في التنفيذ
+Digging_Status,2,الرخص التي لم تنتهي المدة وجاري التنفيذ
+Digging_Status,3,الرخص التي انتهت المدة وجاري التنفيذ
+Digging_Status,4,الرخص التي انتهت من التنفيذ
+Digging_Status,5,مرفوض
+Digging_Status,6,الرخص التي لم تنتهي المدة ولم يبدأ في التنفيذ
+Main_LanduseClassification,100000,سكني
+Main_LanduseClassification,200000,تجاري
+Main_LanduseClassification,300000,الخدمات العامة
+Main_LanduseClassification,400000,مرافق عامة و نقل ومواصلات
+Main_LanduseClassification,500000,التصنيع
+Main_LanduseClassification,600000,زراعة
+Main_LanduseClassification,700000,مناطق تراث عمراني
+Main_LanduseClassification,800000,أراضي فضاء
+Main_LanduseClassification,900000,رموزخرائط
+Main_LanduseClassification,1000000,إستعمال مختلط
+Branch_LanduseClassification,101000,شقة سكنية
+Branch_LanduseClassification,102000,مجمع مساكن
+Branch_LanduseClassification,103000,فنادق
+Branch_LanduseClassification,104000,اسكان خيري
+Branch_LanduseClassification,201000,أسواق تجارية
+Branch_LanduseClassification,202000,معارض
+Branch_LanduseClassification,203000,محلات تجارية
+Branch_LanduseClassification,204000,الحرف التجارية
+Branch_LanduseClassification,205000,خدمات تموين غذائي
+Branch_LanduseClassification,206000,توكيلات تجارية
+Branch_LanduseClassification,207000,خدمات تجارية أخرى
+Branch_LanduseClassification,208000,استثماري
+Branch_LanduseClassification,301000,خدماتتعليمية
+Branch_LanduseClassification,302000,خدمات صحية
+Branch_LanduseClassification,303000,خدمات دينية
+Branch_LanduseClassification,304000,خدمات بلدية
+Branch_LanduseClassification,305000,خدمات ثقافية
+Branch_LanduseClassification,306000,خدمات ترويحية
+Branch_LanduseClassification,307000,خدمات حكومية
+Branch_LanduseClassification,401000,كهرباء
+Branch_LanduseClassification,402000,مياه
+Branch_LanduseClassification,403000,البرق والبريد والهاتف
+Branch_LanduseClassification,404000,صرف صحي
+Branch_LanduseClassification,405000,نقلومواصلات
+Branch_LanduseClassification,501000,نفط
+Branch_LanduseClassification,502000,مصانع
+Branch_LanduseClassification,503000,مصنع ملبوسات
+Branch_LanduseClassification,504000,مصانع أخشات ومنتجات خشبية
+Branch_LanduseClassification,505000,مصانع الورق و المنتجات الورقية
+Branch_LanduseClassification,506000,مطابع
+Branch_LanduseClassification,507000,مصنع متعدد الانتاج
+Branch_LanduseClassification,508000,صناعة و كهرباء
+Branch_LanduseClassification,601000,مزارع
+Branch_LanduseClassification,602000,حدائق وبساتين
+Branch_LanduseClassification,603000,مراعي
+Branch_LanduseClassification,604000,مشتل زراعي علمي
+Branch_LanduseClassification,605000,نشاطات مرتبطة بالزراعة
+Branch_LanduseClassification,606000,مزارع تربية أسماك
+Branch_LanduseClassification,701000,آثار
+Branch_LanduseClassification,702000,مناطق ساحلية
+Branch_LanduseClassification,802000,تضاريس طبيعية
+Branch_LanduseClassification,901000,حدود
+Branch_LanduseClassification,902000,مضلعات ( لأغراض نظام المعلومات الجغرافية)
+Branch_LanduseClassification,903000,حواشي توضيحية
+Branch_LanduseClassification,904000,حواجز
+Branch_LanduseClassification,905000,خطوط
+Branch_LanduseClassification,906000,دوائر ورموز
+Branch_LanduseClassification,907000,تهشير و طرق
+Branch_LanduseClassification,908000,أخرى
+Branch_LanduseClassification,1001000,متعدد استعمال سكني
+Branch_LanduseClassification,1002000,متعدد استعمال تجاري
+Branch_LanduseClassification,1003000,متعدد استعمال حكومي
+Branch_LanduseClassification,1004000,متعدد استعمال زراعي
+Branch_LanduseClassification,1005000,متعدد استعمال صناعي
+Branch_LanduseClassification,1006000,متعدد الاستعمالات
+,,
+Detailed_LanduseClassification,101001,شقة سكنية مفروشة
+Detailed_LanduseClassification,101002,مبنى سكني مفرد الوحدات
+Detailed_LanduseClassification,101003,فيلا أسرة واحدة
+Detailed_LanduseClassification,101004,بيت شعبي أسرة واحدة
+Detailed_LanduseClassification,101005,بيت طين تقليدي لأسرة واحدة
+Detailed_LanduseClassification,101006,مبنى شقق
+Detailed_LanduseClassification,101007,مبنى سكني متعدد الوحدات
+Detailed_LanduseClassification,101008,فيلا متعددة الأسر
+Detailed_LanduseClassification,101009,بيت شعبي متعدد الأسر
+Detailed_LanduseClassification,101010,بيت طين تقليدي متعدد الأسر
+Detailed_LanduseClassification,101011,عمارة سكنية
+Detailed_LanduseClassification,101012,إسكان تعاوني
+Detailed_LanduseClassification,101013,مساكن بدو
+Detailed_LanduseClassification,101014,سكني مختلط
+Detailed_LanduseClassification,101015,إستخدام سكني خاص
+Detailed_LanduseClassification,101016,بناء مسلح
+Detailed_LanduseClassification,101017,حوش من الطوب
+Detailed_LanduseClassification,101018,غرف شعبية
+Detailed_LanduseClassification,101019,قطع سكنية
+Detailed_LanduseClassification,101020,بيت حجر
+Detailed_LanduseClassification,101021,حوش من البلوك
+Detailed_LanduseClassification,101022,حوش بداخله مبنى مسلح
+Detailed_LanduseClassification,101023,حوش من الطوب بصك شرعي
+Detailed_LanduseClassification,101024,بيت الطالب
+Detailed_LanduseClassification,101025,اراضي سكنية مملوكة
+Detailed_LanduseClassification,101026,"بيت ، دار"
+Detailed_LanduseClassification,101027,منطقة سكنية
+Detailed_LanduseClassification,101028,مأوى
+Detailed_LanduseClassification,101029,حوش قائم
+Detailed_LanduseClassification,102001,مجمع سكني
+Detailed_LanduseClassification,102002,مجمع سكني / رجال
+Detailed_LanduseClassification,102003,مجمع سكني / نساء
+Detailed_LanduseClassification,102004,مجمعات
+Detailed_LanduseClassification,102005,مجمع مساكن مؤقت
+Detailed_LanduseClassification,102006,مجمع مساكن دائم
+Detailed_LanduseClassification,102007,مجمع فلل مفروشة
+Detailed_LanduseClassification,102008,كتلة عمرانية تقليدية
+Detailed_LanduseClassification,103001,فندق خمسة نجوم (خدمة فاخرة)
+Detailed_LanduseClassification,103002,فندق أربعة نجوم (خدمة ممتازة)
+Detailed_LanduseClassification,103003,فندق ثلاثة نجوم (خدمة مريحة)
+Detailed_LanduseClassification,103004,فندق نجمتان (خدمة عادية)
+Detailed_LanduseClassification,103005,فندق نجمة واحدة (خدمة سياحية)
+Detailed_LanduseClassification,103006,منتجع فندقي
+Detailed_LanduseClassification,103007,نزل للزائرين والحجاج
+Detailed_LanduseClassification,103008,منامات الطرق الخارجية
+Detailed_LanduseClassification,103009,أجنحة فندقية
+Detailed_LanduseClassification,103010,فيلا مفروشة
+Detailed_LanduseClassification,103011,استراحات ملحقة بمحطات الوقود
+Detailed_LanduseClassification,103012,استراحة مسافرون
+Detailed_LanduseClassification,103013,سكن متنقل مؤقت
+Detailed_LanduseClassification,201001,سوق مواشي
+Detailed_LanduseClassification,201002,سوق بقر
+Detailed_LanduseClassification,201003,سوق غنم
+Detailed_LanduseClassification,201004,سوق جمال
+Detailed_LanduseClassification,201005,سوق طيور
+Detailed_LanduseClassification,201006,سوق سمك
+Detailed_LanduseClassification,201007,سوق لحوم ودواجن
+Detailed_LanduseClassification,201008,حظائر مواشي
+Detailed_LanduseClassification,201009,سوق جملة / مواد غذائية
+Detailed_LanduseClassification,201010,سوق جملة / خضار وفواكه
+Detailed_LanduseClassification,201011,سوق خضار و فواكه
+Detailed_LanduseClassification,201012,سوق مواد غذائية
+Detailed_LanduseClassification,201013,سوق أدوات منزلية
+Detailed_LanduseClassification,201014,سوق أدوات كهربائية
+Detailed_LanduseClassification,201015,سوق آلات و معدات
+Detailed_LanduseClassification,201016,سوق إلكترونيات
+Detailed_LanduseClassification,201017,سوق الذهب والمجوهرات
+Detailed_LanduseClassification,201018,أسواق ومحلات المستعمل
+Detailed_LanduseClassification,201019,سوق مركزي كبير
+Detailed_LanduseClassification,201020,سوق مركزي صغير
+Detailed_LanduseClassification,201021,سوق ملابس جاهزة
+Detailed_LanduseClassification,201022,سوق للنساء فقط
+Detailed_LanduseClassification,201023,سوبر ماركت
+Detailed_LanduseClassification,201024,حلقة خضار
+Detailed_LanduseClassification,201025,سوق تمور
+Detailed_LanduseClassification,201026,ساحة بيع حطب وفحم
+Detailed_LanduseClassification,201027,سوق تجاري مكشوف
+Detailed_LanduseClassification,201028,ساحة مزاد مكشوفة
+Detailed_LanduseClassification,201029,منطقة تجارية
+Detailed_LanduseClassification,202001,معارض سيارات
+Detailed_LanduseClassification,202002,معرض مفروشات
+Detailed_LanduseClassification,202003,معرض تجهيزات مكتبية
+Detailed_LanduseClassification,202004,معرض آلات زراعية
+Detailed_LanduseClassification,202005,معرض آليات ثقيلة
+Detailed_LanduseClassification,202006,معرض آليات و معدات خفيفة
+Detailed_LanduseClassification,202007,معرض مولداتكهربائية
+Detailed_LanduseClassification,202008,معرض سيارات مستعملة
+Detailed_LanduseClassification,202009,معرض أثاث مستعمل
+Detailed_LanduseClassification,203001,محل قطع غيار سيارات مستعملة
+Detailed_LanduseClassification,203002,محل أثاث مستعمل
+Detailed_LanduseClassification,203003,محلات بيع أجهزة و معدات
+Detailed_LanduseClassification,203004,محل أدوات كهربائية
+Detailed_LanduseClassification,203005,محل أجهزة الكترونية
+Detailed_LanduseClassification,203006,محل بيع آلات تصوير
+Detailed_LanduseClassification,203007,محل أدوات منزلية
+Detailed_LanduseClassification,203008,محل ساعات
+Detailed_LanduseClassification,203009,محل بصريات
+Detailed_LanduseClassification,203010,محل قطع غيار سيارات
+Detailed_LanduseClassification,203011,محل أدوات ومستلزمات طبية
+Detailed_LanduseClassification,203012,أسواق تخصصية
+Detailed_LanduseClassification,203013,محل أدوات وملابس رياضية
+Detailed_LanduseClassification,203014,مكتبة وقرطاسية
+Detailed_LanduseClassification,203015,محل لعب أطفال
+Detailed_LanduseClassification,203016,محل ذهب ومجوهرات
+Detailed_LanduseClassification,203017,محل أدوات تجميل وعطور وهدايا
+Detailed_LanduseClassification,203018,محل مواد بناء
+Detailed_LanduseClassification,203019,محل زهور وأشجار الزينة
+Detailed_LanduseClassification,203020,محل نجف وكرستال
+Detailed_LanduseClassification,203021,محل ستائر
+Detailed_LanduseClassification,203022,محلات بيع وتوزيع غاز
+Detailed_LanduseClassification,203023,محل بيع أقمشة ومنسوجات
+Detailed_LanduseClassification,203024,محل ملابس جاهزة
+Detailed_LanduseClassification,203025,محل بيع ملابس وطنية
+Detailed_LanduseClassification,203026,محل بيع أحذية / مصنوعات جلدية
+Detailed_LanduseClassification,203027,محل سجاد و موكيت
+Detailed_LanduseClassification,203028,محل حاسبات آلية ومستلزماتها
+Detailed_LanduseClassification,203029,محل أدوات صحية
+Detailed_LanduseClassification,203030,محل بيع وتأجير اسطوانات رقمية
+Detailed_LanduseClassification,203031,محل معدات و أجهزة بصرية
+Detailed_LanduseClassification,203032,محل بيع وتأجير أشرطة فيديو
+Detailed_LanduseClassification,203033,محل بيع أشرطة كاسيت
+Detailed_LanduseClassification,203034,محل بيع تبغ ومستلزماته
+Detailed_LanduseClassification,203035,محل بيع تحف قديمة
+Detailed_LanduseClassification,203036,محل بيع بطانيات وبياضات
+Detailed_LanduseClassification,203037,محل نسخ وتصوير خرائط
+Detailed_LanduseClassification,203038,محل بيع وإصلاح أدوات خياطة و تطريز
+Detailed_LanduseClassification,203039,محل غير مشغل
+Detailed_LanduseClassification,203040,محل مواد غذائية
+Detailed_LanduseClassification,203041,دكان تموينات / بقالة
+Detailed_LanduseClassification,203042,محل بيع مواد غذائية عضوية
+Detailed_LanduseClassification,203043,محل بيع حلويات وسكاكر
+Detailed_LanduseClassification,203044,محل محامص ومكسرات
+Detailed_LanduseClassification,203045,محل عطور
+Detailed_LanduseClassification,203046,محل تمور
+Detailed_LanduseClassification,203047,محل دواجن
+Detailed_LanduseClassification,203048,محل خضار وفواكه
+Detailed_LanduseClassification,203049,محل أسماك
+Detailed_LanduseClassification,203050,محل تنجيد
+Detailed_LanduseClassification,203051,محل زجاج ومرايا
+Detailed_LanduseClassification,203052,محل نسخ مفاتيح
+Detailed_LanduseClassification,203053,محل مصنوعات جلدية
+Detailed_LanduseClassification,203054,محل قرصان
+Detailed_LanduseClassification,203055,محل بيع معجنات وفطائر
+Detailed_LanduseClassification,203056,محل بيع خشب وفحم
+Detailed_LanduseClassification,203057,محل بيع جوالات ومستلزماتها
+Detailed_LanduseClassification,203058,محل إصلاح مشغولات ذهبية ومجوهرات تقليدية
+Detailed_LanduseClassification,203059,محل حجامة
+Detailed_LanduseClassification,203060,محل تصوير
+Detailed_LanduseClassification,203061,بيوت شعر
+Detailed_LanduseClassification,203062,دكاكين
+Detailed_LanduseClassification,203063,محلات بيع الحطب والفحم
+Detailed_LanduseClassification,203064,موقع الثلاجة
+Detailed_LanduseClassification,204001,سباكه
+Detailed_LanduseClassification,204002,منجرة
+Detailed_LanduseClassification,204003,مندفة
+Detailed_LanduseClassification,204004,إصلاح أحذية ( إسكافي )
+Detailed_LanduseClassification,204005,مغسلة ملابس
+Detailed_LanduseClassification,204006,مغسلة سجاد ومفارش
+Detailed_LanduseClassification,204007,فرن خبز تميس
+Detailed_LanduseClassification,204008,مقهى
+Detailed_LanduseClassification,204009,صالون حلاقة
+Detailed_LanduseClassification,204010,مغسلة
+Detailed_LanduseClassification,204011,كي ملابس
+Detailed_LanduseClassification,204012,خياط رجالي
+Detailed_LanduseClassification,204013,خياط نسائي
+Detailed_LanduseClassification,204014,مشغل نسائي
+Detailed_LanduseClassification,204015,مشغولات فضية
+Detailed_LanduseClassification,204016,بيع التحف والهدايا والنحاسيات
+Detailed_LanduseClassification,204017,بيع أدوات تجميل وعطور ومجوهرات تقليدية
+Detailed_LanduseClassification,204018,خطاط ورسام
+Detailed_LanduseClassification,204019,خدمات صيانة و إصلاح
+Detailed_LanduseClassification,204020,محطة وقود فئة (ج)
+Detailed_LanduseClassification,204021,محطة وقود فئة (ب)
+Detailed_LanduseClassification,204022,محطة وقود فئة (أ )
+Detailed_LanduseClassification,204023,مركز خدمة سيارات
+Detailed_LanduseClassification,204024,مغسلة سيارات
+Detailed_LanduseClassification,204025,ميزان وترصيص كفرات
+Detailed_LanduseClassification,204026,سمكرة وبوية
+Detailed_LanduseClassification,204027,تنظيف وتلميع السيارات
+Detailed_LanduseClassification,204028,ورشة إصلاح سيارات
+Detailed_LanduseClassification,204029,ورشة إصلاح سيارات ملحقة بوكالات السيارات
+Detailed_LanduseClassification,204030,صيانة وأصلاح اجهزة كهربائية والكترونية
+Detailed_LanduseClassification,204031,صيانة وإصلاح معدات وآلات
+Detailed_LanduseClassification,204032,صيانة وإصلاح اجهزة كهربائية والكترونية ملحقة بوكالاتها
+Detailed_LanduseClassification,204033,مهن تخصصية
+Detailed_LanduseClassification,204034,مستلزمات خيام
+Detailed_LanduseClassification,204035,محطة وقود
+Detailed_LanduseClassification,204036,استثماري محطة محروقات
+Detailed_LanduseClassification,204037,محطة بنزين
+Detailed_LanduseClassification,204038,ورش إصلاح سيارات
+Detailed_LanduseClassification,204039,بنشر
+Detailed_LanduseClassification,204040,قطع غيار سيارات
+Detailed_LanduseClassification,205001,مطبخ
+Detailed_LanduseClassification,205002,مخبز يدوي
+Detailed_LanduseClassification,205003,مخبز آلي
+Detailed_LanduseClassification,205004,مطعم
+Detailed_LanduseClassification,205005,كافتريا / بوفيه
+Detailed_LanduseClassification,205006,مأكولات سريعة وعصيرات
+Detailed_LanduseClassification,205007,مسلخ ( مجزر )
+Detailed_LanduseClassification,205008,مسمٍّط
+Detailed_LanduseClassification,205009,مطحنة
+Detailed_LanduseClassification,205010,ملحمة
+Detailed_LanduseClassification,205011,بسطات حطب واعلاف
+Detailed_LanduseClassification,205012,ساحة بيع اعلاف
+Detailed_LanduseClassification,205013,مستودعات اعلاف وشعير
+Detailed_LanduseClassification,206001,وكالة سيارات
+Detailed_LanduseClassification,206002,وكالة معدات وآلات
+Detailed_LanduseClassification,206003,وكالة أجهزة كهربائية
+Detailed_LanduseClassification,206004,وكالة أجهزة الكترونية
+Detailed_LanduseClassification,206005,وكالة ساعات
+Detailed_LanduseClassification,206006,وكالة معدات بصرية وتصوير
+Detailed_LanduseClassification,206007,وكالة حاسب آلي
+Detailed_LanduseClassification,206008,وكالة أدوات منزلية
+Detailed_LanduseClassification,206009,وكالة معدات زراعية
+Detailed_LanduseClassification,206010,وكالة بيع إطارات
+Detailed_LanduseClassification,206011,مكاتب تجارية
+Detailed_LanduseClassification,206012,مكتب ديكور
+Detailed_LanduseClassification,206013,مكتب سياحة
+Detailed_LanduseClassification,206014,مكتب إرشاد سياحي
+Detailed_LanduseClassification,206015,مكتب خدمات عامة وتخليص جمركي
+Detailed_LanduseClassification,206016,مكتب صرافة واستثمار
+Detailed_LanduseClassification,206017,مكتب سياحة وسفريات
+Detailed_LanduseClassification,206018,مكتب تأجير سيارات
+Detailed_LanduseClassification,206019,مكتب خدمات قانونية ومحامون
+Detailed_LanduseClassification,206020,مكتب محاسبة
+Detailed_LanduseClassification,206021,مكتب ترجمة واخترال ونسخ
+Detailed_LanduseClassification,206022,مكتب دعاية وإعلان
+Detailed_LanduseClassification,206023,مكتب خدمات حج وعمرة
+Detailed_LanduseClassification,206024,مكتب إستقدام
+Detailed_LanduseClassification,206025,مكتب إستشاري
+Detailed_LanduseClassification,206026,مكتب خدمات صرف صحي
+Detailed_LanduseClassification,206027,مكتب هندسي
+Detailed_LanduseClassification,206028,ستديو تصوير وتظهير أفلام
+Detailed_LanduseClassification,207001,غرف تجارية
+Detailed_LanduseClassification,207002,خدمات التمويل والتأمين
+Detailed_LanduseClassification,207003,مصرف
+Detailed_LanduseClassification,207004,مصرف زراعي
+Detailed_LanduseClassification,207005,مصرف إقراض (تسليف)
+Detailed_LanduseClassification,207006,صندوق تنمية عقارية
+Detailed_LanduseClassification,207007,صندوق تنمية صناعية
+Detailed_LanduseClassification,207008,شركة تأمين
+Detailed_LanduseClassification,207009,خدمات النقل
+Detailed_LanduseClassification,207010,شركة نقل وشحن
+Detailed_LanduseClassification,207011,شركة زراعية متعددة الانشطة
+Detailed_LanduseClassification,207012,الخدمات العقارية
+Detailed_LanduseClassification,207013,مكتب عقاري
+Detailed_LanduseClassification,207014,شركة تطوير عقاري
+Detailed_LanduseClassification,207015,شركة ديكور وتشطيبات معمارية
+Detailed_LanduseClassification,207016,مقاول مباني
+Detailed_LanduseClassification,207017,خدمات الصيانة والتشغيل
+Detailed_LanduseClassification,207018,كشف وإصلاح تسرب مياه
+Detailed_LanduseClassification,207019,صيانة خزانات مياه
+Detailed_LanduseClassification,207020,صيانة مباني
+Detailed_LanduseClassification,207021,صيانة منزلية
+Detailed_LanduseClassification,207022,صيانة حدائق
+Detailed_LanduseClassification,207023,ساحة للسيارات المبردة
+Detailed_LanduseClassification,207024,مستودع
+Detailed_LanduseClassification,207025,ساحة تخزين
+Detailed_LanduseClassification,207026,مراكز تجارية
+Detailed_LanduseClassification,207027,حراج عام
+Detailed_LanduseClassification,207028,حراج سيارات
+Detailed_LanduseClassification,207029,قطع غيار مستعملة (تشليح سيارات)
+Detailed_LanduseClassification,207030,صيدلية
+Detailed_LanduseClassification,207031,صرَّاف آلي
+Detailed_LanduseClassification,207032,كبائن اتصال هاتفي
+Detailed_LanduseClassification,207033,كبينة هاتف
+Detailed_LanduseClassification,207034,هاتف عمومي
+Detailed_LanduseClassification,207035,تغليف
+Detailed_LanduseClassification,207036,منتجات موسمية
+Detailed_LanduseClassification,207037,مقهى إنترنت
+Detailed_LanduseClassification,207038,تجاري مستقبلي لتنمية موارد البلدية
+Detailed_LanduseClassification,207039,مستودع وكراج
+Detailed_LanduseClassification,207040,مخازن
+Detailed_LanduseClassification,207041,مواقف تجارية
+Detailed_LanduseClassification,208001,ارض استثماري
+Detailed_LanduseClassification,208002,استثمار تجاري
+Detailed_LanduseClassification,208003,موقع مقترح لقرية استثمارية
+Detailed_LanduseClassification,208004,موقع استثماري
+Detailed_LanduseClassification,208005,استثماري منطقة العاب
+Detailed_LanduseClassification,301010,تعليم حكومي إبتدائي : بنين / بنات
+Detailed_LanduseClassification,301011,مدرسة تحفيظ قرآن إبتدائية / بنين
+Detailed_LanduseClassification,301012,مدرسة إبتدائية / بنين
+Detailed_LanduseClassification,301013,مدرسة تحفيظ قرآن إبتدائية / بنات
+Detailed_LanduseClassification,301014,مدرسة إبتدائية / بنات
+Detailed_LanduseClassification,301020,تعليم حكومي متوسط : بنين / بنات
+Detailed_LanduseClassification,301021,مدرسة تحفيظ قرآن متوسطة / بنين
+Detailed_LanduseClassification,301022,مدرسة تحفيظ قرأن متوسطة/ بنات
+Detailed_LanduseClassification,301023,مدرسة متوسطة / بنين
+Detailed_LanduseClassification,301024,مدرسة متوسطة / بنات
+Detailed_LanduseClassification,301030,تعليم حكومي ثانوي : بنين / بنات
+Detailed_LanduseClassification,301031,مدرسة ثانوية نموذجية / بنين
+Detailed_LanduseClassification,301032,مدرسة ثانوية عادية / بنين
+Detailed_LanduseClassification,301033,مدرسة ثانوية نموذجية / بنات
+Detailed_LanduseClassification,301034,مدرسة ثانوية عادية / بنات
+Detailed_LanduseClassification,301035,مدرسة تحفيظ قرآن ثانوية / بنين
+Detailed_LanduseClassification,301036,مدرسة تحفيظ قرآن ثانوية / بنات
+Detailed_LanduseClassification,301040,التعليم الخاص / بنين و بنات
+Detailed_LanduseClassification,301050,مدارس أهلية حتى الأبتدائي - بنين/ بنات
+Detailed_LanduseClassification,301051,مدرسة أهلية حتى الابتدائي / بنين
+Detailed_LanduseClassification,301052,مدرسة أهلية حتى الأبتدائي / بنات
+Detailed_LanduseClassification,301060,مدارسأهلية حتىمتوسط -بنين/ بنات
+Detailed_LanduseClassification,301061,مدرسة أهلية حتى المتوسط / بنين
+Detailed_LanduseClassification,301062,مدرسة أهليةحتى متوسط / بنات
+Detailed_LanduseClassification,301070,مدارس أهلية حتى الثانوي - بنين / بنات
+Detailed_LanduseClassification,301071,مدرسة أهلية حتى ثانوي / بنين
+Detailed_LanduseClassification,301072,مدرسة أهلية حتى ثانوي / بنات
+Detailed_LanduseClassification,301080,مدارس حكومية شاملة : بنين / بنات
+Detailed_LanduseClassification,301081,مدرسة شاملة / بنين
+Detailed_LanduseClassification,301082,مدرسة شاملة / بنات
+Detailed_LanduseClassification,301083,رياض أطفال / بنين
+Detailed_LanduseClassification,301084,رياض أطفال / بنات
+Detailed_LanduseClassification,301085,مدارس السفارات والجاليات
+Detailed_LanduseClassification,301086,مدارس دولية
+Detailed_LanduseClassification,301087,مركزتعليممستمر
+Detailed_LanduseClassification,301090,تعليم خاص
+Detailed_LanduseClassification,301091,معهد النور / بنين
+Detailed_LanduseClassification,301092,معهد النور / بنات
+Detailed_LanduseClassification,301093,معهد الاحتياجات الخاصة / بنين
+Detailed_LanduseClassification,301094,معهد الاحتياجات الخاصة / بنات
+Detailed_LanduseClassification,301095,معهد التربية الفكرية / بنين
+Detailed_LanduseClassification,301096,معهد التربية الفكرية / بنات
+Detailed_LanduseClassification,301100,معاهد عليا
+Detailed_LanduseClassification,301101,المعهد العالي للخدمة الاجتماعية
+Detailed_LanduseClassification,301102,المعهد العالي للعلوم المالية والتجارية
+Detailed_LanduseClassification,301103,معهد إتصالات
+Detailed_LanduseClassification,301104,المعهد الدبلوماسي
+Detailed_LanduseClassification,301105,معاهد فنية
+Detailed_LanduseClassification,301106,معهد معلمين متوسط / بنين
+Detailed_LanduseClassification,301107,معهد معلمين ثانوي / بنين
+Detailed_LanduseClassification,301108,معهد معلمات / متوسط
+Detailed_LanduseClassification,301109,معهد فندقة
+Detailed_LanduseClassification,301110,معهد بريد
+Detailed_LanduseClassification,301111,معهد حاسب آلي
+Detailed_LanduseClassification,301112,معهد خياطة
+Detailed_LanduseClassification,301113,معهد لغات
+Detailed_LanduseClassification,301114,معهد الجوازات
+Detailed_LanduseClassification,301115,المعاهد الفنية
+Detailed_LanduseClassification,301116,المعهد الصحي / بنين
+Detailed_LanduseClassification,301117,المعهد الصحي / بنات
+Detailed_LanduseClassification,301118,معهد الدفاع المدني
+Detailed_LanduseClassification,301119,معهد التدريب المصرفي
+Detailed_LanduseClassification,301120,المعهد الزراعي
+Detailed_LanduseClassification,301121,معهد طرق
+Detailed_LanduseClassification,301122,معهد صحي
+Detailed_LanduseClassification,301123,التعليم الفني
+Detailed_LanduseClassification,301124,مركز تدريب مهني
+Detailed_LanduseClassification,301125,مدرسة ثانوية تجارية
+Detailed_LanduseClassification,301126,مدرسة ثانوية صناعية
+Detailed_LanduseClassification,301127,معهد إعداد مدربين مهنيين
+Detailed_LanduseClassification,301128,معهد تدريب مهني
+Detailed_LanduseClassification,301129,معهد المساعدين الفنيين
+Detailed_LanduseClassification,301130,معهد فني
+Detailed_LanduseClassification,301131,معهد علمي
+Detailed_LanduseClassification,301200,تعليم عالي
+Detailed_LanduseClassification,301201,جامعة
+Detailed_LanduseClassification,301202,كلية مستقلة
+Detailed_LanduseClassification,301203,جامعة إسلامية
+Detailed_LanduseClassification,301204,كلية بنات
+Detailed_LanduseClassification,301205,كلية طب أسنان
+Detailed_LanduseClassification,301206,عيادة أسنان
+Detailed_LanduseClassification,301207,معهد إعداد القادة
+Detailed_LanduseClassification,301208,كلية القادة والاركان
+Detailed_LanduseClassification,301209,مبنى مدرسة / كلية / جامعة
+Detailed_LanduseClassification,302001,مختبرات
+Detailed_LanduseClassification,302002,مجمع عيادات
+Detailed_LanduseClassification,302003,عيادة
+Detailed_LanduseClassification,302004,مستوصف أهلي
+Detailed_LanduseClassification,302005,مصحَّات
+Detailed_LanduseClassification,302006,مراكز صحية
+Detailed_LanduseClassification,302007,نقاط صحية
+Detailed_LanduseClassification,302008,مركز رعاية صحية أولية
+Detailed_LanduseClassification,302009,مركز تجميل
+Detailed_LanduseClassification,302010,مركز تصحيح نظر
+Detailed_LanduseClassification,302011,الهلال الأحمر
+Detailed_LanduseClassification,302012,وحدة صحية مدرسية / بنات
+Detailed_LanduseClassification,302013,وحدة صحية مدرسية / بنين
+Detailed_LanduseClassification,302014,مركز رعاية أمومة وطفولة
+Detailed_LanduseClassification,302015,خدمات طبية تخصصية
+Detailed_LanduseClassification,302016,معمل أسنان
+Detailed_LanduseClassification,302017,مستودع أدوية
+Detailed_LanduseClassification,302018,مستشفى خاص
+Detailed_LanduseClassification,302019,مستشفى عام
+Detailed_LanduseClassification,302020,مستشفى عيون
+Detailed_LanduseClassification,302021,مستشفى صحة نفسية
+Detailed_LanduseClassification,302022,مستشفى أمراض جلدية
+Detailed_LanduseClassification,302023,مستشفى عظام
+Detailed_LanduseClassification,302024,مستشفى نساء وولادة
+Detailed_LanduseClassification,302025,مستشفى حميات
+Detailed_LanduseClassification,302026,مستشفى علاج الأدمان
+Detailed_LanduseClassification,302027,مستشفى أمراض صدرية
+Detailed_LanduseClassification,302028,مستشفى أطفال
+Detailed_LanduseClassification,302029,مستشفى نقاهة
+Detailed_LanduseClassification,302030,مركز إسعاف
+Detailed_LanduseClassification,302031,خدمات بيطرية
+Detailed_LanduseClassification,302032,مركز أبحاث بيطرية
+Detailed_LanduseClassification,302033,مستوصف
+Detailed_LanduseClassification,302032,وحدة صحية
+Detailed_LanduseClassification,302031,مكتب سجل مواليد
+Detailed_LanduseClassification,302030,بنك الدم
+Detailed_LanduseClassification,303001,المسجد الحرام
+Detailed_LanduseClassification,303002,المسجد النبوي
+Detailed_LanduseClassification,303003,مصلى عيد
+Detailed_LanduseClassification,303004,مسجد جامع
+Detailed_LanduseClassification,303005,مسجد محلي
+Detailed_LanduseClassification,303006,مسجد
+Detailed_LanduseClassification,303007,مقبره
+Detailed_LanduseClassification,303008,مغسلة موتى
+Detailed_LanduseClassification,303009,مدينة حجاج
+Detailed_LanduseClassification,303010,سكن إمام
+Detailed_LanduseClassification,303011,سكن مؤذن
+Detailed_LanduseClassification,303012,سكنمؤذن وإمام
+Detailed_LanduseClassification,303013,مسجد وسكن إمام و مؤذن
+Detailed_LanduseClassification,303014,مسجد وسكن إمام
+Detailed_LanduseClassification,303015,توسعة للمقبرة
+Detailed_LanduseClassification,303016,الدعوة والارشاد
+Detailed_LanduseClassification,303017,الاوقاف
+Detailed_LanduseClassification,303018,توسعة لمصلى العيدين
+Detailed_LanduseClassification,303019,توسعة مستقبلية للمقبرة
+Detailed_LanduseClassification,303021,جماعة تحفيظ القرآن الكريم
+Detailed_LanduseClassification,303022,ارض مملوكة لوزارة الشئون الاسلامية والاوقاف
+Detailed_LanduseClassification,303023,فرع اوقاف
+Detailed_LanduseClassification,304001,مسلخ
+Detailed_LanduseClassification,304002,محرقة نفايات
+Detailed_LanduseClassification,304003,محطة تحليل نفايات
+Detailed_LanduseClassification,304004,ساحة خردة
+Detailed_LanduseClassification,304005,مرمى (مكب) نفايات
+Detailed_LanduseClassification,304006,دورة مياه عامة
+Detailed_LanduseClassification,304007,بلدية فرعية
+Detailed_LanduseClassification,304008,جمعية تعاونية
+Detailed_LanduseClassification,304009,محطة محروقات
+Detailed_LanduseClassification,304010,مكتب بلدية
+Detailed_LanduseClassification,304011,ارض تابعة للبلدية / استثمارية
+Detailed_LanduseClassification,304012,استثمارات بلدية
+Detailed_LanduseClassification,304013,مسلخ بلدي
+Detailed_LanduseClassification,304014,ضمان إجتماعي
+Detailed_LanduseClassification,304015,رعاية شباب
+Detailed_LanduseClassification,304016,تابع ارض المسلخ
+Detailed_LanduseClassification,304017,خدمات بلدية
+Detailed_LanduseClassification,304018,مكتب الاشراف للبلدية
+Detailed_LanduseClassification,304019,مكتب رعاية شباب
+Detailed_LanduseClassification,304050,خدمات إجتماعية
+Detailed_LanduseClassification,304051,بيت تقاعد
+Detailed_LanduseClassification,304052,جمعيات خيرية
+Detailed_LanduseClassification,304053,دار خدمة اجتماعية
+Detailed_LanduseClassification,304054,إصلاحية
+Detailed_LanduseClassification,304055,إصلاحية الأحداث
+Detailed_LanduseClassification,304056,لجنة اغاثة
+Detailed_LanduseClassification,304057,صالات أفراح ومناسبات
+Detailed_LanduseClassification,304058,مراكز أبحاث
+Detailed_LanduseClassification,304059,مركز أبحاث جامعية
+Detailed_LanduseClassification,304060,مركز أبحاث طبية
+Detailed_LanduseClassification,304061,مركز أبحاث حيوانية
+Detailed_LanduseClassification,304062,مركزأبحاث زراعية
+Detailed_LanduseClassification,304063,مركز أبحاث شاملة
+Detailed_LanduseClassification,304064,محطة أرصاد جوية
+Detailed_LanduseClassification,304065,مركز أبحاث اقتصادية
+Detailed_LanduseClassification,304066,مركز أبحاث الارض والبيئة
+Detailed_LanduseClassification,304067,مركز إنتخابي
+Detailed_LanduseClassification,305001,مكتبات عامة
+Detailed_LanduseClassification,305002,متاحف
+Detailed_LanduseClassification,305003,صالة عرض
+Detailed_LanduseClassification,305004,أرض معارض
+Detailed_LanduseClassification,305005,معرض أحياء مائية
+Detailed_LanduseClassification,305006,نادي ادبي ثقافي
+Detailed_LanduseClassification,305007,مكتبةسمع - بصرية
+Detailed_LanduseClassification,305008,مركز ثقافي
+Detailed_LanduseClassification,305009,مؤسسه ثقافيه
+Detailed_LanduseClassification,305010,معرض
+Detailed_LanduseClassification,305011,ميدان عام
+Detailed_LanduseClassification,305012,ساحة إستعراض
+Detailed_LanduseClassification,305013,ساحة خدمات مساندة وانتظار فرقة إستعراضية
+Detailed_LanduseClassification,305014,مركز ثقافي ومكتبة عامة
+Detailed_LanduseClassification,305015,مكتبة
+Detailed_LanduseClassification,305016,معرض كتاب
+Detailed_LanduseClassification,305050,خدمات إعلامية
+Detailed_LanduseClassification,305051,دار نشر
+Detailed_LanduseClassification,305052,جريدة أو مجلة
+Detailed_LanduseClassification,305053,مبنى الاذاعة والتليفزيون
+Detailed_LanduseClassification,305054,محطة ارسال وابراج
+Detailed_LanduseClassification,305055,محطة تقوية
+Detailed_LanduseClassification,305056,هوائي إذاعة / تلفزيون
+Detailed_LanduseClassification,305057,وكالة انباء
+Detailed_LanduseClassification,306001,مدينة ألعاب
+Detailed_LanduseClassification,306002,شواطئومصايف
+Detailed_LanduseClassification,306003,مخيّمات
+Detailed_LanduseClassification,306004,متنزهات اقليمية
+Detailed_LanduseClassification,306005,متنزهات بلدية
+Detailed_LanduseClassification,306006,متنزه منطقة سكنية
+Detailed_LanduseClassification,306007,حديقة حيوان
+Detailed_LanduseClassification,306008,مقهى شعبي
+Detailed_LanduseClassification,306009,ساحة إحتفالات شعبية
+Detailed_LanduseClassification,306010,متنزهات خاصة
+Detailed_LanduseClassification,306011,حديقة حي سكني
+Detailed_LanduseClassification,306012,بستان نخيل
+Detailed_LanduseClassification,306013,منطقة مفتوحة
+Detailed_LanduseClassification,306014,حديقة مجاورة سكنية
+Detailed_LanduseClassification,306015,منطقة ترفيهية
+Detailed_LanduseClassification,306016,استراحة
+Detailed_LanduseClassification,306017,قصر أفراح
+Detailed_LanduseClassification,306018,ساحة احتفالات
+Detailed_LanduseClassification,306019,منطقة خضراء (ضفاف وادي)
+Detailed_LanduseClassification,306020,حديقة عامة
+Detailed_LanduseClassification,306021,حديقة صخرية
+Detailed_LanduseClassification,306022,منطقة خضراء
+Detailed_LanduseClassification,306023,متنزه عام
+Detailed_LanduseClassification,306024,ساحة استعراض
+Detailed_LanduseClassification,306025,حديقة أطفال
+Detailed_LanduseClassification,306026,حديقة وملاعب
+Detailed_LanduseClassification,306027,منطقة جديرة بالتهذيب و التجميل
+Detailed_LanduseClassification,306050,خدمات رياضية
+Detailed_LanduseClassification,306051,استاد رياضي
+Detailed_LanduseClassification,306052,نادي رياضي
+Detailed_LanduseClassification,306053,ميدان سباق خيل
+Detailed_LanduseClassification,306054,مسابح
+Detailed_LanduseClassification,306055,ملعب رياضي
+Detailed_LanduseClassification,306056,صالة رياضة (مغلقة )
+Detailed_LanduseClassification,306057,حمام بخار
+Detailed_LanduseClassification,306058,ميدان رماية
+Detailed_LanduseClassification,306059,مضمار سباق هجن
+Detailed_LanduseClassification,306060,ساحة شعبية وملاعب رياضية
+Detailed_LanduseClassification,306061,ساحة للشباب
+Detailed_LanduseClassification,306062,موقع أرض متنزه
+Detailed_LanduseClassification,306063,منطقة خضراء
+Detailed_LanduseClassification,306064,برحات لعب الأطفال
+Detailed_LanduseClassification,306065,ملعب كرة قدم
+Detailed_LanduseClassification,306066,استاد وزارة المعارف الرياضي
+Detailed_LanduseClassification,306067,ساحة شعبية
+Detailed_LanduseClassification,307001,مركز شرطة
+Detailed_LanduseClassification,307002,دفاع مدني
+Detailed_LanduseClassification,307003,نقاط تفتيش
+Detailed_LanduseClassification,307004,هيئة الأمر بالمعروف والنهي عن المنكر
+Detailed_LanduseClassification,307005,مديرية جوازات
+Detailed_LanduseClassification,307006,محكمة / كاتب عدل
+Detailed_LanduseClassification,307007,أمن عام
+Detailed_LanduseClassification,307008,شرطة مرور
+Detailed_LanduseClassification,307009,مكتب عمدة الحي
+Detailed_LanduseClassification,307010,مباني حكومية
+Detailed_LanduseClassification,307011,مبنى وزارة
+Detailed_LanduseClassification,307012,مبنى وكالة وزارة
+Detailed_LanduseClassification,307013,مبنى رئاسة عامة
+Detailed_LanduseClassification,307014,مبنى مديرية
+Detailed_LanduseClassification,307015,مبنى هيئة
+Detailed_LanduseClassification,307016,مبنى امارة
+Detailed_LanduseClassification,307017,مبنى بلدية
+Detailed_LanduseClassification,307018,إنشاءات رأسية
+Detailed_LanduseClassification,307019,مبنى مصلحة حكومية
+Detailed_LanduseClassification,307020,سجن
+Detailed_LanduseClassification,307021,حصن
+Detailed_LanduseClassification,307022,أمانة
+Detailed_LanduseClassification,307023,مبنى قنصلية
+Detailed_LanduseClassification,307024,مبنى سفارة
+Detailed_LanduseClassification,307025,مبنى مرفق طبي
+Detailed_LanduseClassification,307026,مبنى مركز إطفاء
+Detailed_LanduseClassification,307027,مبنى منارة
+Detailed_LanduseClassification,307028,مبنى تحت الإنشاء
+Detailed_LanduseClassification,307029,الهيئة السعودية للمهندسين
+Detailed_LanduseClassification,307030,الهيئة السعودية للتخصصات الطبية
+Detailed_LanduseClassification,307031,إنشاءات متنوعة
+Detailed_LanduseClassification,307032,مناطق خاصة
+Detailed_LanduseClassification,307033,وزارة الشئون البلديه والقرويه
+Detailed_LanduseClassification,307034,وزارة التربيه والتعليم
+Detailed_LanduseClassification,307035,وزارة الثقافة والاعلام
+Detailed_LanduseClassification,307036,وزارة المياه والكهرباء
+Detailed_LanduseClassification,307037,وزارة التجارة والصناعة
+Detailed_LanduseClassification,307038,وزارة الاقتصاد والتخطيط
+Detailed_LanduseClassification,307039,وزارة الماليه
+Detailed_LanduseClassification,307040,وزارة الاتصالات وتقنية المعلومات
+Detailed_LanduseClassification,307041,وزارة النقل
+Detailed_LanduseClassification,307042,وزارة الزراعة
+Detailed_LanduseClassification,307043,وزارة الصحة
+Detailed_LanduseClassification,307044,وزارة الداخليه
+Detailed_LanduseClassification,307045,وزارة الخارجيه
+Detailed_LanduseClassification,307046,رئاسة مجلس الوزراء
+Detailed_LanduseClassification,307047,وزارة العدل
+Detailed_LanduseClassification,307048,وزارة الشئون الاسلاميه والاوقاف والدعوة والارشاد
+Detailed_LanduseClassification,307049,وزارة الخدمة المدنيه
+Detailed_LanduseClassification,307050,وزارة التعليم العالي
+Detailed_LanduseClassification,307051,وزارة البترول والثروة المعدنيه
+Detailed_LanduseClassification,307052,وزارة الحج
+Detailed_LanduseClassification,307053,وزارة العمل والشئون الاجتماعيه
+Detailed_LanduseClassification,307054,ديوان المراقبة
+Detailed_LanduseClassification,307055,ديوان المظالم
+Detailed_LanduseClassification,307056,مديرية التربيه والتعليم
+Detailed_LanduseClassification,307057,مديرية الثقافة والاعلام
+Detailed_LanduseClassification,307058,مديرية المياه والكهرباء
+Detailed_LanduseClassification,307059,مديرية التجارة والصناعة
+Detailed_LanduseClassification,307060,مديرية الاقتصاد والتخطيط
+Detailed_LanduseClassification,307061,مديرية الماليه
+Detailed_LanduseClassification,307062,مديرية الاتصالات وتقنية المعلومات
+Detailed_LanduseClassification,307063,مديرية النقل
+Detailed_LanduseClassification,307064,مديرية الزراعة
+Detailed_LanduseClassification,307065,مديرية الصحة
+Detailed_LanduseClassification,307066,مديرية الداخليه
+Detailed_LanduseClassification,307067,مديرية الخارجيه
+Detailed_LanduseClassification,307068,مديرية العدل
+Detailed_LanduseClassification,307069,مديرية الشئون الاسلاميه والاوقاف والدعوة والارشاد
+Detailed_LanduseClassification,307070,مديرية الخدمة المدنيه
+Detailed_LanduseClassification,307071,مديرية التعليم العالي
+Detailed_LanduseClassification,307072,مديرية البترول والثروة المعدنيه
+Detailed_LanduseClassification,307073,مديرية العمل والشئون الاجتماعيه
+Detailed_LanduseClassification,307074,مديرية الحج
+Detailed_LanduseClassification,307075,مبنى سلطة الموانيء
+Detailed_LanduseClassification,307076,منطقة تجمع
+Detailed_LanduseClassification,307077,مبنى المحكمة الشرعية
+Detailed_LanduseClassification,307078,مباحث
+Detailed_LanduseClassification,307079,مرفق حكومي
+Detailed_LanduseClassification,307080,مرفق حكومي مستقبلي
+Detailed_LanduseClassification,307081,فرع امارة
+Detailed_LanduseClassification,307082,ارض الدفاع المدني
+Detailed_LanduseClassification,307083,ارض الشرطة
+Detailed_LanduseClassification,307084,مديرية الطرق والمواصلات
+Detailed_LanduseClassification,307085,ارض الوحدة التعاونية
+Detailed_LanduseClassification,307086,ارض مكافحة المخدرات
+Detailed_LanduseClassification,307087,مباحث عامة
+Detailed_LanduseClassification,307088,هيئة الرقابة والبحث
+Detailed_LanduseClassification,307089,موقع ارض الشرطة
+Detailed_LanduseClassification,307090,موقع ارض المرور سابقا
+Detailed_LanduseClassification,307091,المعسكر الكشفي
+Detailed_LanduseClassification,307092,ادارة المرور
+Detailed_LanduseClassification,307093,موقع الامارة
+Detailed_LanduseClassification,307095,موقع للدفاع المدني
+Detailed_LanduseClassification,307096,ارض حكومية
+Detailed_LanduseClassification,307097,وحدةزراعية
+Detailed_LanduseClassification,401001,خطوط كهرباء
+Detailed_LanduseClassification,401002,محطة توليد كهرباء
+Detailed_LanduseClassification,401003,محطة تحويل فرعية
+Detailed_LanduseClassification,401004,محطة توليد طاقة فرعية
+Detailed_LanduseClassification,401005,مرافق إمداد كهرباء
+Detailed_LanduseClassification,401006,تجاري خاص ( غير حكومي )
+Detailed_LanduseClassification,401007,صندوق كهرباء
+Detailed_LanduseClassification,401008,عمود إنارة
+Detailed_LanduseClassification,401009,عمود عمومي
+Detailed_LanduseClassification,401010,عمود كهرباء ـ ضغط عالي
+Detailed_LanduseClassification,401011,عمود كهرباء ـ محلي
+Detailed_LanduseClassification,401012,مبنى محطة توليد طاقة فرعية
+Detailed_LanduseClassification,401013,برج كهرباء حسب مقياس الرسم
+Detailed_LanduseClassification,401014,حرم خطوط الكهرباء
+Detailed_LanduseClassification,402001,مسارات النقل
+Detailed_LanduseClassification,402002,خطوط أنابيب المياه
+Detailed_LanduseClassification,402003,محطةتنقية مياه
+Detailed_LanduseClassification,402004,محطةتحلية مياه
+Detailed_LanduseClassification,402005,خزان مياه
+Detailed_LanduseClassification,402006,محطة تقوية
+Detailed_LanduseClassification,402007,مبنى محطة ضخ مياه
+Detailed_LanduseClassification,402008,محطة مياه
+Detailed_LanduseClassification,402009,واديمتجدد
+Detailed_LanduseClassification,402010,شيب (بئر) مياه
+Detailed_LanduseClassification,402011,مسيلات وشعاب مياه
+Detailed_LanduseClassification,402012,مسيل ضيق
+Detailed_LanduseClassification,402013,مسيل واسع
+Detailed_LanduseClassification,402014,بحيرة أو بركة جافة
+Detailed_LanduseClassification,402015,مسيل جوفي / مسيل متلاشي
+Detailed_LanduseClassification,402016,سبخات ملحية
+Detailed_LanduseClassification,402017,مستنقع
+Detailed_LanduseClassification,402018,بحيرة موسمية
+Detailed_LanduseClassification,402019,بحيرة دائمة
+Detailed_LanduseClassification,402020,خزان مياه صنعي
+Detailed_LanduseClassification,402021,أراضي معرضة للفيضان
+Detailed_LanduseClassification,402022,مسيل متلاشي
+Detailed_LanduseClassification,402023,ترعة
+Detailed_LanduseClassification,402024,مسقى( قنوات ري زراعي )
+Detailed_LanduseClassification,402025,بئر مياه
+Detailed_LanduseClassification,402026,بئر جاف
+Detailed_LanduseClassification,402027,بئر ارتوازي
+Detailed_LanduseClassification,402028,سد مائي
+Detailed_LanduseClassification,402029,قنطرة
+Detailed_LanduseClassification,402030,ترعة
+Detailed_LanduseClassification,402031,هدَّار
+Detailed_LanduseClassification,402032,"خزان مياه ( أرضي ، برجي)"
+Detailed_LanduseClassification,402033,خط أنابيب مياة
+Detailed_LanduseClassification,402034,قنطرةأو قناة مياه ( أفلاج )
+Detailed_LanduseClassification,402035,مقياس تدفق مياه
+Detailed_LanduseClassification,402036,مرفق تغذية المياه الجوفية
+Detailed_LanduseClassification,402037,عبَّارة صندوقية / سيفون
+Detailed_LanduseClassification,402038,مجري مائي متجدد
+Detailed_LanduseClassification,402039,عبَّارة مياه تحت الطريق
+Detailed_LanduseClassification,402040,إتجاه مجرى
+Detailed_LanduseClassification,402041,رأس إتجاه مجرى
+Detailed_LanduseClassification,402042,حاجز مياه
+Detailed_LanduseClassification,402043,خزان جاف
+Detailed_LanduseClassification,402044,خزان متجدد
+Detailed_LanduseClassification,402045,برج مياه بالتصغير المطلوب
+Detailed_LanduseClassification,402046,خزان مياه بالتصغير المطلوب
+Detailed_LanduseClassification,402047,مياه (وقت المسح الجوي)
+Detailed_LanduseClassification,402048,حرم خطوط المياة
+Detailed_LanduseClassification,402049,خط تحلية مياه
+Detailed_LanduseClassification,402050,عين (نبع) مياه
+Detailed_LanduseClassification,403001,مكتب بريد محلي
+Detailed_LanduseClassification,403002,مكتب بريد وبرق
+Detailed_LanduseClassification,403003,مكتب اتصالات دولية
+Detailed_LanduseClassification,403004,مكتب اشتراكات
+Detailed_LanduseClassification,403005,مقسٍّمهاتف
+Detailed_LanduseClassification,403006,محطة ارسال واستقبال برقي
+Detailed_LanduseClassification,403007,ابراج المرحلات
+Detailed_LanduseClassification,403008,برج اتصالات
+Detailed_LanduseClassification,403009,عمود هاتف
+Detailed_LanduseClassification,403010,مبنى مكتب هاتف عمومي
+Detailed_LanduseClassification,403011,قاعدة برج اتصالات خلوية
+Detailed_LanduseClassification,404001,محطة معالجة مياه صرف صحي
+Detailed_LanduseClassification,404002,حوض تجفيف ترسبات
+Detailed_LanduseClassification,404003,وحدة تجميع وضخ مياة صرف صحى
+Detailed_LanduseClassification,404004,قناة صرف صحي(مجرور)
+Detailed_LanduseClassification,404005,مصرف
+Detailed_LanduseClassification,404006,غرفة تفتيش
+Detailed_LanduseClassification,404007,غطاء غرفة تفتيش
+Detailed_LanduseClassification,404008,بوابة
+Detailed_LanduseClassification,404009,تصريف مياه أمطار و سيول
+Detailed_LanduseClassification,404010,حرم قناة تصريف مياه أمطار وسيول
+Detailed_LanduseClassification,404011,مرفق صرف صحي
+Detailed_LanduseClassification,404012,محطة معالجة مياه صرف صحي
+Detailed_LanduseClassification,404013,تهشير محطة معالجة صرف صحي
+Detailed_LanduseClassification,405001,خطوط سكة حديدية
+Detailed_LanduseClassification,405002,حرم خط سكة حديدية
+Detailed_LanduseClassification,405003,محطة ركاب
+Detailed_LanduseClassification,405004,محطة تاكسي/ حافلات
+Detailed_LanduseClassification,405005,مركز تحصيل رسوم استخدام الطرق
+Detailed_LanduseClassification,405006,محطة بضائع
+Detailed_LanduseClassification,405007,ساحات تخزين
+Detailed_LanduseClassification,405008,ورش سكة حديد
+Detailed_LanduseClassification,405009,نقل جماعي
+Detailed_LanduseClassification,405010,محطة نقل جماعي بين المدن
+Detailed_LanduseClassification,405011,جراج و ورش حافلات محلية
+Detailed_LanduseClassification,405012,شاحنات
+Detailed_LanduseClassification,405013,موقف شاحنات
+Detailed_LanduseClassification,405014,شركات نقليات
+Detailed_LanduseClassification,405015,سيارات الاجرة
+Detailed_LanduseClassification,405016,موقف سيارات اجرة
+Detailed_LanduseClassification,405017,النقل الجوي
+Detailed_LanduseClassification,405018,مطار دولي
+Detailed_LanduseClassification,405019,مطار داخلي
+Detailed_LanduseClassification,405020,مطار خاص
+Detailed_LanduseClassification,405021,النقل البحري
+Detailed_LanduseClassification,405022,مبنى مطار
+Detailed_LanduseClassification,405023,محطة ركاب بحرية
+Detailed_LanduseClassification,405024,محطة بضائع بحرية
+Detailed_LanduseClassification,405025,ميناء بحري
+Detailed_LanduseClassification,405026,مرسى
+Detailed_LanduseClassification,405027,محطة محروقات
+Detailed_LanduseClassification,405028,طرق سريعة
+Detailed_LanduseClassification,405029,طريق دائري
+Detailed_LanduseClassification,405030,طريق مزدوج
+Detailed_LanduseClassification,405031,وصلة طريق زراعي
+Detailed_LanduseClassification,405032,جزء من طريق مرصوف
+Detailed_LanduseClassification,405033,طريق خدمة
+Detailed_LanduseClassification,405034,طريق مركبات
+Detailed_LanduseClassification,405035,علامات طريق
+Detailed_LanduseClassification,405036,لافتة طريق
+Detailed_LanduseClassification,405037,إنارة شارع متعددة
+Detailed_LanduseClassification,405038,إنارة شارع - يسرى
+Detailed_LanduseClassification,405039,إنارة شارع - يمنى
+Detailed_LanduseClassification,405040,لافتة
+Detailed_LanduseClassification,405041,طريق ريفي
+Detailed_LanduseClassification,405042,طريق سياحي
+Detailed_LanduseClassification,405043,طريق شرياني
+Detailed_LanduseClassification,405044,طريق رئيسي
+Detailed_LanduseClassification,405045,شارع
+Detailed_LanduseClassification,405046,طريق تجميع
+Detailed_LanduseClassification,405047,شارع محلي
+Detailed_LanduseClassification,405048,إشارة مرور ضوئية
+Detailed_LanduseClassification,405049,كتف طريق
+Detailed_LanduseClassification,405050,أشجار زينة على جانب الطريق
+Detailed_LanduseClassification,405051,ممر(لاستعمال معين )
+Detailed_LanduseClassification,405052,ممر مشاة ضيق
+Detailed_LanduseClassification,405053,طريق مشاةمعزول عن مرور مركبات
+Detailed_LanduseClassification,405054,درج
+Detailed_LanduseClassification,405055,موقف سيارات مكشوف
+Detailed_LanduseClassification,405056,موقف سيارات مغطى
+Detailed_LanduseClassification,405057,موقف سيارات في قبو مبنى
+Detailed_LanduseClassification,405058,موقف سيارات متعدد الادوار
+Detailed_LanduseClassification,405059,مرآب خاص
+Detailed_LanduseClassification,405060,"حق مرور ، حق أولوية"
+Detailed_LanduseClassification,405061,منطقة عازلة للطريق
+Detailed_LanduseClassification,405062,"مسلك ، درب ترابي"
+Detailed_LanduseClassification,405063,حفريات
+Detailed_LanduseClassification,405064,حفريات غير محددة
+Detailed_LanduseClassification,405065,طريق تحت الإنشاء
+Detailed_LanduseClassification,405066,معالم أشجار ـ غير نخيل
+Detailed_LanduseClassification,405067,معالم أشجار ـ نخيل
+Detailed_LanduseClassification,405068,مدخل نفق
+Detailed_LanduseClassification,405069,مدخل مدينة
+Detailed_LanduseClassification,405070,محطة سكه حديد
+Detailed_LanduseClassification,405071,منطقة انتظار
+Detailed_LanduseClassification,405072,حرم الطريق
+Detailed_LanduseClassification,405073,علامات كيلومتريه
+Detailed_LanduseClassification,405074,تقاطعات طرق
+Detailed_LanduseClassification,405075,نفق
+Detailed_LanduseClassification,405076,طريق مقترح
+Detailed_LanduseClassification,405077,درب ترابي
+Detailed_LanduseClassification,405078,طريق صيانة
+Detailed_LanduseClassification,405018,قاعده جويه
+Detailed_LanduseClassification,501001,أنابيب نفط
+Detailed_LanduseClassification,501002,محطة مراقبة ضغط نفطية
+Detailed_LanduseClassification,501003,بئر نفط
+Detailed_LanduseClassification,501004,محطة ضخ نفط
+Detailed_LanduseClassification,501005,تكرير نفط وصناعات نفطية
+Detailed_LanduseClassification,501006,مصفاة نفط
+Detailed_LanduseClassification,501007,مصنع عوازل أسفلتية
+Detailed_LanduseClassification,501008,صناعات بتروكيميائية اخرى
+Detailed_LanduseClassification,501009,مصنع عوازل
+Detailed_LanduseClassification,501010,خزان نفط حسب مقياس الرسم
+Detailed_LanduseClassification,501011,خزان غاز حسب المقايس
+Detailed_LanduseClassification,501012,خط أنابيب نفط متعدد
+Detailed_LanduseClassification,502010,مصانع أغذية
+Detailed_LanduseClassification,502011,مصنع منتجات لحوم
+Detailed_LanduseClassification,502012,مصنع منتجات ألبان
+Detailed_LanduseClassification,502013,مصنع تعليب وحفظ الفواكة والخضروات
+Detailed_LanduseClassification,502014,مصنع حلويات مغلفة
+Detailed_LanduseClassification,502015,مصنع أقلام رصاص
+Detailed_LanduseClassification,502016,مطحنة حبوب
+Detailed_LanduseClassification,502017,مصنع مشتقات الخبز
+Detailed_LanduseClassification,502018,مصنع سكر
+Detailed_LanduseClassification,502019,مصنع حلويات ومعجنات
+Detailed_LanduseClassification,502020,مصنع حفظ وتعليب أسماك
+Detailed_LanduseClassification,502021,مصنع سجق
+Detailed_LanduseClassification,502022,مصنع حفظ وتصنيعتمور
+Detailed_LanduseClassification,502023,مصنع مياه غازية
+Detailed_LanduseClassification,502024,مصنع ثلج
+Detailed_LanduseClassification,502025,مصنع عصائر
+Detailed_LanduseClassification,502026,مصنع مياه شرب صحية
+Detailed_LanduseClassification,502027,مصنعمشروبات متنوعة
+Detailed_LanduseClassification,502028,مصنع منتجات بحرية
+Detailed_LanduseClassification,502029,مصنع بسكوت
+Detailed_LanduseClassification,503001,مصنع ملابس داخلية
+Detailed_LanduseClassification,503002,مصنع صباغة
+Detailed_LanduseClassification,503003,مصنع سجاد وموكيت
+Detailed_LanduseClassification,503004,مصنع منسوجات متنوعة
+Detailed_LanduseClassification,503005,مصنوعات جلدية
+Detailed_LanduseClassification,503006,مصنع احذية وشنط واحزمة جلدية
+Detailed_LanduseClassification,503007,مصنع ملبوسات جلدية
+Detailed_LanduseClassification,503008,مصنع دباغةجلود
+Detailed_LanduseClassification,503009,مصنع جلديات متنوعة
+Detailed_LanduseClassification,504001,مصنع الواح خشبية
+Detailed_LanduseClassification,504002,مصنع حاويات خشبية
+Detailed_LanduseClassification,504003,مصنع منتجات خشبية
+Detailed_LanduseClassification,504004,مصانع اخشاب متنوعة
+Detailed_LanduseClassification,504005,الاثاث والمفروشات
+Detailed_LanduseClassification,504006,مصنع أثاث منزلي
+Detailed_LanduseClassification,504007,مصنع أثاث مكتبي و قواطع داخلية
+Detailed_LanduseClassification,504008,مصنع اثاث متنوع
+Detailed_LanduseClassification,505001,مصنع لب الورق( خــام )
+Detailed_LanduseClassification,505002,مصنع ورق
+Detailed_LanduseClassification,505003,مصنع ورق مقوى
+Detailed_LanduseClassification,505004,مصنع ورق تحويلي
+Detailed_LanduseClassification,505005,مصنع صناديق ورقية
+Detailed_LanduseClassification,505006,مصنع ورق صحف
+Detailed_LanduseClassification,505007,مصنع ورق مضغوط
+Detailed_LanduseClassification,505008,مصنع ورق صحي
+Detailed_LanduseClassification,505009,مصنع منتجات ورقية أخرى
+Detailed_LanduseClassification,506001,مطبعة صحف
+Detailed_LanduseClassification,506002,مطبعة كتب ومطبوعات تجارية
+Detailed_LanduseClassification,506003,مطبعة اعلانات
+Detailed_LanduseClassification,506004,ورشة تجليد
+Detailed_LanduseClassification,506005,مطبعة المصحف الشريف
+Detailed_LanduseClassification,507001,صناعات خفيفة
+Detailed_LanduseClassification,507002,صناعات متوسطة
+Detailed_LanduseClassification,507003,صناعات ثقيلة
+Detailed_LanduseClassification,507004,صناعات خطرة
+Detailed_LanduseClassification,507005,صناعات كيماوية وتكميلية
+Detailed_LanduseClassification,507006,مصنع أنابيب بلاستيك
+Detailed_LanduseClassification,507007,مصنع دهانات
+Detailed_LanduseClassification,507008,مصنع أدوية طبية
+Detailed_LanduseClassification,507009,مصنع صابون ومنظفات
+Detailed_LanduseClassification,507010,مصنع غراء ومواد لاصقة
+Detailed_LanduseClassification,507011,مصنع اسمدة
+Detailed_LanduseClassification,507012,مصنع مطاط
+Detailed_LanduseClassification,507013,زجاج ومشتقاته
+Detailed_LanduseClassification,507014,صناعة مواد البناء
+Detailed_LanduseClassification,507015,مصنع اسمنت
+Detailed_LanduseClassification,507016,مصنع جبس
+Detailed_LanduseClassification,507017,مصنع تشكيل صخور
+Detailed_LanduseClassification,507018,مصنع اسبستوس ومواد عازلة
+Detailed_LanduseClassification,507019,مصنع طوب أحمر
+Detailed_LanduseClassification,507020,مصنع طوب اسمنتي
+Detailed_LanduseClassification,507021,مصنع بلاط
+Detailed_LanduseClassification,507022,مصنع رخام
+Detailed_LanduseClassification,507023,مصنع ادوات صحية و سيراميك
+Detailed_LanduseClassification,507024,صناعة الصلب
+Detailed_LanduseClassification,507025,مصنع حديد التسليح
+Detailed_LanduseClassification,507026,مصنع سحب وتشكيل المعادن
+Detailed_LanduseClassification,507027,مصنع سحب وتشكيل غير المعادن
+Detailed_LanduseClassification,507028,مسبك
+Detailed_LanduseClassification,507029,صناعاتمعدنيةتحويلية
+Detailed_LanduseClassification,507030,محددة
+Detailed_LanduseClassification,507031,مصنع معدات واجهزة غير كهربائية
+Detailed_LanduseClassification,507032,مصنع معدات واجهزة كهربائية
+Detailed_LanduseClassification,507033,مصنع وسائط نقل ومواصلات
+Detailed_LanduseClassification,507034,صناعات معدنية اخرى
+Detailed_LanduseClassification,507035,مصنع نسيج
+Detailed_LanduseClassification,507036,ورشة تصنيع الومينيوم
+Detailed_LanduseClassification,507037,مصنع اجهزة علمية
+Detailed_LanduseClassification,507038,مصنع اجهزة بصرية
+Detailed_LanduseClassification,507039,مصنع اجهزة طبية
+Detailed_LanduseClassification,507040,مصنع اجهزةقياسوثوابت
+Detailed_LanduseClassification,507041,مصنع أجهزةبحث و مختبرات
+Detailed_LanduseClassification,507042,مصنع أجهزة علمية اخرى
+Detailed_LanduseClassification,507043,صناعة مجوهرات وآلات دقيقة
+Detailed_LanduseClassification,507044,مصنع ساعات
+Detailed_LanduseClassification,507045,مصنع آلات موسيقية
+Detailed_LanduseClassification,507046,مصنع مشروبات خفيفة
+Detailed_LanduseClassification,507047,مصانع شاملة
+Detailed_LanduseClassification,507048,الورق و منتجاته ؟؟؟؟؟؟؟؟؟؟(مكرر)
+Detailed_LanduseClassification,507049,مصنع لعب اطفال
+Detailed_LanduseClassification,507050,مصنع ادوات مكتبية
+Detailed_LanduseClassification,507051,مصنع مجوهرات مقلدة وفضة
+Detailed_LanduseClassification,507052,مصنع مجوهرات : ذهب / ماس
+Detailed_LanduseClassification,507053,مصنع منتجات بحرية؟؟؟؟؟؟؟؟ (مكرر)
+Detailed_LanduseClassification,507054,مصنع ألمونيوم
+Detailed_LanduseClassification,507055,مصنع أيس كريم
+Detailed_LanduseClassification,507056,مصنع برادات وتكييف
+Detailed_LanduseClassification,507057,غربال رمال
+Detailed_LanduseClassification,507058,مصنع أحجار كريمة
+Detailed_LanduseClassification,507059,مصنع آلات دقيقة متنوعة
+Detailed_LanduseClassification,507060,معمل بلوك
+Detailed_LanduseClassification,507061,مصنعجلدصناعي
+Detailed_LanduseClassification,508001,مصنع بلاستيك
+Detailed_LanduseClassification,601001,مزرعة قمح
+Detailed_LanduseClassification,601002,مزرعة فاكهه وخضار
+Detailed_LanduseClassification,601003,مزرعة نخيل
+Detailed_LanduseClassification,601004,مزرعة زهور
+Detailed_LanduseClassification,601005,مزرعة متعددة المحاصيل
+Detailed_LanduseClassification,601006,اراضي زراعية
+Detailed_LanduseClassification,601007,املاك زراعية
+Detailed_LanduseClassification,601008,مزرعة
+Detailed_LanduseClassification,601009,أراضي مزروعة
+Detailed_LanduseClassification,601010,منطقة زراعية
+Detailed_LanduseClassification,601011,مزارع مملوكة
+Detailed_LanduseClassification,601013,فرع وزارة الزراعة والمياه
+Detailed_LanduseClassification,602001,بستان أشجار وفواكه
+Detailed_LanduseClassification,604001,مشتل زراعي تجاري
+Detailed_LanduseClassification,604002,"بيوت محمية ، صوب زراعية"
+Detailed_LanduseClassification,605001,مزرعة تربية دواجن
+Detailed_LanduseClassification,605002,مزرعة تربية مواشي
+Detailed_LanduseClassification,605003,محطة فرز وتدريج وتعبئة محاصيل زراعية
+Detailed_LanduseClassification,605004,انشطة زراعية متعددة
+Detailed_LanduseClassification,605005,مركز بذور وأسمدة (مخصبات) زراعية
+Detailed_LanduseClassification,605006,غابة
+Detailed_LanduseClassification,606001,مزرعة تربية اسماك
+Detailed_LanduseClassification,606002,ساحة صيادين
+Detailed_LanduseClassification,606003,مرفأ قوارب صيد
+Detailed_LanduseClassification,701001,معالم تاريخية وأثرية
+Detailed_LanduseClassification,701002,مبنى أثري
+Detailed_LanduseClassification,701003,شواهد تاريخية
+Detailed_LanduseClassification,701004,معالم متنوعة
+Detailed_LanduseClassification,702001,صخور ساحلية
+Detailed_LanduseClassification,702002,شاطئ رملي
+Detailed_LanduseClassification,702003,شاطئ حصوي
+Detailed_LanduseClassification,702004,شاطئ صخري
+Detailed_LanduseClassification,702005,جرف صخري
+Detailed_LanduseClassification,702006,جزيرة صخرية مغمورة أو شبه مغمورة
+Detailed_LanduseClassification,702007,شعب مرجانية
+Detailed_LanduseClassification,702008,فنار (منارة بحرية)
+Detailed_LanduseClassification,702009,عوامة إرشاد سفن (شمندورة)
+Detailed_LanduseClassification,702010,حوض سفن (قزف)
+Detailed_LanduseClassification,702011,ممرات بحرية
+Detailed_LanduseClassification,702012,ركام سفن
+Detailed_LanduseClassification,702013,قياس الأعماق المائية
+Detailed_LanduseClassification,702014,قاع البحر (طيني)
+Detailed_LanduseClassification,702015,قاع البحر (رملي)
+Detailed_LanduseClassification,702016,قاع البحر (صخري)
+Detailed_LanduseClassification,702017,ساحل صخري
+Detailed_LanduseClassification,702018,ساحل البحر
+Detailed_LanduseClassification,801001,اراضي غير منمّاه
+Detailed_LanduseClassification,801002,ارض قابلة للتنمية
+Detailed_LanduseClassification,801003,ارض غير قابلة للتنمية
+Detailed_LanduseClassification,801004,ارض ذات تنمية خاصة
+Detailed_LanduseClassification,801005,ارض ذات استعمالات خاصة
+Detailed_LanduseClassification,801006,ارض فضاء مسّورة
+Detailed_LanduseClassification,801007,ارض فضاء مسّورة مجهَّزة
+Detailed_LanduseClassification,801008,ارض فضاء مسّورة غير مجهزة
+Detailed_LanduseClassification,801009,ارض فضاء غير مسّورة منزّلة على الطبيعة
+Detailed_LanduseClassification,801010,ارض فضاء غير مسورة و غير منزلة على الطبيعة
+Detailed_LanduseClassification,801011,ارض فضاء مجهزة و منزّلة على الطبيعةوغير مسوَّرة
+Detailed_LanduseClassification,801012,ارض فضاء مسّورةومنزّلة على الطبيعة بدون تجهيز
+Detailed_LanduseClassification,801013,ارض فضاء غير مسورة وغير منزّلة على الطبيعة
+Detailed_LanduseClassification,801014,اراضي فضاءمخططة للاستعمال الصناعي
+Detailed_LanduseClassification,801015,أرض عشبية
+Detailed_LanduseClassification,801016,رمــــال
+Detailed_LanduseClassification,801017,أراضي تحت الاستصلاح للزراعة
+Detailed_LanduseClassification,801018,ارض ملك مواطن بصك شرعي
+Detailed_LanduseClassification,801019,ارض مبرحة تستبعد من التخطيط
+Detailed_LanduseClassification,801020,ارض مملوكة بصك شر
+Detailed_LanduseClassification,801021,ارض خاصة
+Detailed_LanduseClassification,801022,ارض مملوكة
+Detailed_LanduseClassification,801023,منطقة صخرية
+Detailed_LanduseClassification,802001,أرقام شبكة خطوط الطول والعرض
+Detailed_LanduseClassification,802002,أسفل خط الصدع في تمثيل حاسوبي للتضاريس
+Detailed_LanduseClassification,802003,بروز ( نتوء ) صخري
+Detailed_LanduseClassification,802004,إنجرافات تربة
+Detailed_LanduseClassification,802005,صدع رأسي
+Detailed_LanduseClassification,802006,تغير مستوى السطح
+Detailed_LanduseClassification,802007,قمة الصدع في تمثيل حاسوبي للتضاريس
+Detailed_LanduseClassification,802008,كثيب رملي مؤقت
+Detailed_LanduseClassification,802009,وادي
+Detailed_LanduseClassification,802010,أرض وعرة
+Detailed_LanduseClassification,802011,اراضي جبلية
+Detailed_LanduseClassification,901001,حدود بركة سباحة
+Detailed_LanduseClassification,901002,حدود بستان فاكهة
+Detailed_LanduseClassification,901003,حدود بستان نخيل
+Detailed_LanduseClassification,901004,حدود أمانة
+Detailed_LanduseClassification,901005,حدود إدارية
+Detailed_LanduseClassification,901006,حدودبلدية
+Detailed_LanduseClassification,901007,حدود حيّ
+Detailed_LanduseClassification,901008,حدودحي فرعي
+Detailed_LanduseClassification,901009,حدود دوليةغير مرسَّمة
+Detailed_LanduseClassification,901010,حدود دولية مرسَّمة
+Detailed_LanduseClassification,901011,حدود محافظة
+Detailed_LanduseClassification,901012,حدود منطقة
+Detailed_LanduseClassification,901013,حدود حديقة
+Detailed_LanduseClassification,901014,حدود متنزه
+Detailed_LanduseClassification,901015,حدود منجم
+Detailed_LanduseClassification,901016,حدود فناء
+Detailed_LanduseClassification,901017,حدود سبخات طينية
+Detailed_LanduseClassification,901018,حدود قطعة أرض
+Detailed_LanduseClassification,901019,حدود محطة تجميع نفايات
+Detailed_LanduseClassification,901020,حدودمبنى
+Detailed_LanduseClassification,901021,حدود جدار استنادي
+Detailed_LanduseClassification,901022,حدود محجر
+Detailed_LanduseClassification,901023,حدود المدرجالمعبد لمطار
+Detailed_LanduseClassification,901024,حدود مدرج هبوط وإقلاع( بدون خدمات مطار معتادة )
+Detailed_LanduseClassification,901025,حدود بلوك مباني
+Detailed_LanduseClassification,901026,حدود رافعة ثابتة
+Detailed_LanduseClassification,901027,حدود مقبرة
+Detailed_LanduseClassification,901028,حدود مناطق متنوعة
+Detailed_LanduseClassification,901029,حدود منطقة ترويحية
+Detailed_LanduseClassification,901030,حدود منطقة مبنية
+Detailed_LanduseClassification,901031,حدود منطقة مزروعة
+Detailed_LanduseClassification,901032,حدود منطقة مطار
+Detailed_LanduseClassification,901033,حدود موقف سيارات غير معبد
+Detailed_LanduseClassification,901034,حدودموقف سيارات معبد
+Detailed_LanduseClassification,901035,حدود مقلب( مكب) نفايات
+Detailed_LanduseClassification,901036,حدود وادي كبير
+Detailed_LanduseClassification,901037,حدود مهبط هيلوكوبتر
+Detailed_LanduseClassification,901038,حدود منطقة ترويحية
+Detailed_LanduseClassification,901039,حدود مدرج هبوط و إقلاع
+Detailed_LanduseClassification,901040,حدود صوامعغلال
+Detailed_LanduseClassification,901041,حدود محطة معالجة مياه المجاري
+Detailed_LanduseClassification,901042,حدود عادم مدخنة
+Detailed_LanduseClassification,901043,حدود قاعدة مدخنة
+Detailed_LanduseClassification,901044,حدود جزر
+Detailed_LanduseClassification,901045,حدود رصيف تحميل
+Detailed_LanduseClassification,901046,حدود مسطحات مائية
+Detailed_LanduseClassification,901047,حدود ملكيات أراضي
+Detailed_LanduseClassification,901048,تحديد نقاط تقريبية في تمثيل حاسوبي لتضاريس
+Detailed_LanduseClassification,901049,حدود إقليمية
+Detailed_LanduseClassification,901050,حدود أخرى
+Detailed_LanduseClassification,901051,حدود مدينة
+Detailed_LanduseClassification,901052,حدود قرية
+Detailed_LanduseClassification,901053,حدودأملاك
+Detailed_LanduseClassification,901054,حدود محميات طبيعية
+Detailed_LanduseClassification,901055,النطاق العمراني
+Detailed_LanduseClassification,901056,النطاق العمراني / مرحلة أولى
+Detailed_LanduseClassification,901057,النطاق العمراني / مرحلة ثانية
+Detailed_LanduseClassification,901058,حد حماية التنمية
+Detailed_LanduseClassification,901059,صدع
+Detailed_LanduseClassification,901060,منحدر
+Detailed_LanduseClassification,901061,وادي صغير
+Detailed_LanduseClassification,901062,جرف ( إنحدار) صخري سحيق
+Detailed_LanduseClassification,901063,جسر
+Detailed_LanduseClassification,901064,جسر مشاة
+Detailed_LanduseClassification,901065,نقطة رفع مساحي
+Detailed_LanduseClassification,901066,محطة مساحية لتنسيق الضبط المساحي
+Detailed_LanduseClassification,901067,حق إرتفاق
+Detailed_LanduseClassification,901068,حد البناء
+Detailed_LanduseClassification,901069,قسم الأملاك و المباني
+Detailed_LanduseClassification,901070,كتلة عمرانية (كتلة سكنية)
+Detailed_LanduseClassification,901071,أملاك
+Detailed_LanduseClassification,901072,املاك مواطنين
+Detailed_LanduseClassification,901073,ملك خاص
+Detailed_LanduseClassification,901074,املاك خاصة محاطة بحوش
+Detailed_LanduseClassification,901075,املاك خاصة
+Detailed_LanduseClassification,901076,حدود الملكية (حسب الصك)
+Detailed_LanduseClassification,901077,خط تنظيم للشوارع والمرافق
+Detailed_LanduseClassification,901078,خط تقسيم القطع السكنية الداخلية
+Detailed_LanduseClassification,901079,خط مستقبلي مقترح لتنظيم الشوارع
+Detailed_LanduseClassification,901080,خط مستقبلي مقترح لتقسيم القطع الداخلية
+Detailed_LanduseClassification,901081,خط الأرصفة
+Detailed_LanduseClassification,902001,مضلع حدود أمانة
+Detailed_LanduseClassification,902002,مضلع حدود إدارية
+Detailed_LanduseClassification,902003,مضلع خط سكة حديدية
+Detailed_LanduseClassification,902004,مضلع غطاء نباتي متناثر ( أشجار )
+Detailed_LanduseClassification,902005,مضلع أعشاب مائية
+Detailed_LanduseClassification,902006,مضلع بحيرة أو بركة جافة
+Detailed_LanduseClassification,902007,مضلع بحيرة أو بركة متجددة
+Detailed_LanduseClassification,902008,مضلع بركة سباحة
+Detailed_LanduseClassification,902009,مضلع بروز ( نتوء ) صخري
+Detailed_LanduseClassification,902010,مضلع بستان فاكهة
+Detailed_LanduseClassification,902011,مضلع بستان نخيل
+Detailed_LanduseClassification,902012,مضلع جسر
+Detailed_LanduseClassification,902013,مضلع حدود بلدية
+Detailed_LanduseClassification,902014,مضلع حدود حي
+Detailed_LanduseClassification,902015,مضلع حدود حي فرعي
+Detailed_LanduseClassification,902016,مضلع حدود دولية غير مرسمة
+Detailed_LanduseClassification,902017,مضلع حدود دولية مرسمة
+Detailed_LanduseClassification,902018,مضلع حدود محافظة
+Detailed_LanduseClassification,902019,مضلع حدود منطقة
+Detailed_LanduseClassification,902020,مضلع حديقة
+Detailed_LanduseClassification,902021,مضلع حديقة عامة
+Detailed_LanduseClassification,902022,مضلع حفرة
+Detailed_LanduseClassification,902023,مضلع خزان جاف
+Detailed_LanduseClassification,902024,مضلع خزان متجدد
+Detailed_LanduseClassification,902025,مضلع فناء
+Detailed_LanduseClassification,902026,مضلع شريط مدّ و جزر
+Detailed_LanduseClassification,902027,مضلع سد
+Detailed_LanduseClassification,902028,مضلع شاطيء حصى
+Detailed_LanduseClassification,902029,مضلع غطاء نباتي متناثر ( شجيرات )
+Detailed_LanduseClassification,902030,مضلع كتف طريق معبد
+Detailed_LanduseClassification,902031,مضلع صخور ساحلية
+Detailed_LanduseClassification,902032,مضلع طريق تحت الإنشاء
+Detailed_LanduseClassification,902033,مضلع طريق ترابي
+Detailed_LanduseClassification,902034,مضلع طريق غير معبد
+Detailed_LanduseClassification,902035,مضلع طريق معبد
+Detailed_LanduseClassification,902036,مضلع قطعة أرض
+Detailed_LanduseClassification,902037,مضلع قناة
+Detailed_LanduseClassification,902038,مضلع مجرى مائي متجدد
+Detailed_LanduseClassification,902039,مضلع محجر
+Detailed_LanduseClassification,902040,مضلع مدرج هبوط أو إقلاع بدون خدمات مطارية
+Detailed_LanduseClassification,902041,مضلع بلوك مباني
+Detailed_LanduseClassification,902042,مضلع مقبرة
+Detailed_LanduseClassification,902043,مضلع ممر مشاه
+Detailed_LanduseClassification,902044,مضلع مناطق متنوعة
+Detailed_LanduseClassification,902045,مضلع منطقة ترويحية
+Detailed_LanduseClassification,902046,مضلع منطقة حصباوية
+Detailed_LanduseClassification,902047,مضلع منطقة رملية
+Detailed_LanduseClassification,902048,مضلع منطقة كثبان رملية
+Detailed_LanduseClassification,902049,مضلع منطقة مبنية
+Detailed_LanduseClassification,902050,مضلع منطقة مزروعة
+Detailed_LanduseClassification,902051,مضلع منطقة مطار
+Detailed_LanduseClassification,902052,مضلع موقف مركبات
+Detailed_LanduseClassification,902053,مضلع مقلب (مكب) نفايات
+Detailed_LanduseClassification,902054,مضلع نهر متجدد
+Detailed_LanduseClassification,902055,مضلع وادي
+Detailed_LanduseClassification,902056,مضلع عام
+Detailed_LanduseClassification,903001,حاشية نقطة ارتفاع
+Detailed_LanduseClassification,903002,حاشية نقطة ارتفاع على سطح مبنى
+Detailed_LanduseClassification,903003,حاشية تسمية شوارع
+Detailed_LanduseClassification,903004,مسمى قطاعات
+Detailed_LanduseClassification,903005,حاشية تسمية أماكن
+Detailed_LanduseClassification,903006,تسمية بلوكات
+Detailed_LanduseClassification,903007,حاشية إحداثيات ركنية عالية المستوى
+Detailed_LanduseClassification,903008,حاشية إحداثيات ركنية متوسطة المستوى
+Detailed_LanduseClassification,903009,حاشية إحداثيات ركنية منخفضة المستوى
+Detailed_LanduseClassification,903010,حاشية خط مسح جوي متوسط
+Detailed_LanduseClassification,903011,حاشية خطمسح جوي مرتفع
+Detailed_LanduseClassification,903012,حاشية خطمسح جوي منخفض
+Detailed_LanduseClassification,903013,حاشية خط مسح جوي عرضي
+Detailed_LanduseClassification,903014,رمز خط كنتور دليل
+Detailed_LanduseClassification,903015,حاشية خط كنتور وسيط
+Detailed_LanduseClassification,903016,حدود لوحة خريطة
+Detailed_LanduseClassification,903017,حاشية خطوططول وعرض خريطة
+Detailed_LanduseClassification,903018,حاشية الخطوط في مفتاح الخريطة
+Detailed_LanduseClassification,903019,علامات مطابقة
+Detailed_LanduseClassification,903020,حاشية علامات شبكة خطوط الطول والعرض
+Detailed_LanduseClassification,903021,حاشية نقطة رفع مساحي
+Detailed_LanduseClassification,903022,حاشية مسمى أجسام مائية
+Detailed_LanduseClassification,903023,حاشية مبنى حكومي
+Detailed_LanduseClassification,903024,حاشية مرافق
+Detailed_LanduseClassification,903025,رقم مركز دائرة صورة المسح الجوي
+Detailed_LanduseClassification,903026,حاشية معالم جغرافية متنوعة
+Detailed_LanduseClassification,903027,حاشية مسمى الخريطة
+Detailed_LanduseClassification,903028,حاشية معالم بارزة
+Detailed_LanduseClassification,903029,حاشية نقاط ضبط أرضي
+Detailed_LanduseClassification,903030,حاشية شبكة إحداثيات نظام مركاتور العالمي
+Detailed_LanduseClassification,904001,حاجز/ ضفة رملية
+Detailed_LanduseClassification,904002,"حاجز أمواج ، رصيف ، مرسى"
+Detailed_LanduseClassification,904003,ردم
+Detailed_LanduseClassification,904004,ردمغير محدد
+Detailed_LanduseClassification,904005,حاجز سكة حديدية
+Detailed_LanduseClassification,904006,حافة خرسانية
+Detailed_LanduseClassification,904007,حافة مسلك / درب
+Detailed_LanduseClassification,904008,حافة مسلك / درب - محور
+Detailed_LanduseClassification,904009,حافة طريق تحت الإنشاء
+Detailed_LanduseClassification,904010,حافة طريق تحت الإنشاء ـ محور
+Detailed_LanduseClassification,904011,حافة طريق غير معبدة - محور
+Detailed_LanduseClassification,904012,حافة طريق غير معبد ـ محور
+Detailed_LanduseClassification,904013,حافة طريق معبد
+Detailed_LanduseClassification,904014,حافة طريق معبد ـ محور
+Detailed_LanduseClassification,904015,حواف قناة مائية
+Detailed_LanduseClassification,904016,حواف نفق
+Detailed_LanduseClassification,904017,محور حافة نفق
+Detailed_LanduseClassification,904018,سياج (درابزين) حماية
+Detailed_LanduseClassification,904019,سياج (درابزين ) حماية مزدوج
+Detailed_LanduseClassification,904020,سياج (درابزين) حمايةمفرد
+Detailed_LanduseClassification,904021,سلك سياج شائك
+Detailed_LanduseClassification,904022,سور مبني من حديد و طوب
+Detailed_LanduseClassification,904023,سور مبني من طوب بالتصغير المطلوب
+Detailed_LanduseClassification,904024,سياج شجري
+Detailed_LanduseClassification,904025,حاجز مياه
+Detailed_LanduseClassification,905001,خط التقاطع الأعلى لامتداد سطحين منحدرين
+Detailed_LanduseClassification,905002,محور مسلك
+Detailed_LanduseClassification,905003,محور طريق تحت الإنشاء
+Detailed_LanduseClassification,905004,محور طريق غير معبد
+Detailed_LanduseClassification,905005,محور طريق غير معبد ـ رمز
+Detailed_LanduseClassification,905006,محورلطريق معبد
+Detailed_LanduseClassification,905007,محور قناة
+Detailed_LanduseClassification,905008,محورلقناة 10 ـ 25 م
+Detailed_LanduseClassification,905009,محور قناة 5 ـ 10 م
+Detailed_LanduseClassification,905010,محور قناة أكثر من 25 م
+Detailed_LanduseClassification,905011,محور نفق
+Detailed_LanduseClassification,905012,خط أنابيب نفط مدفون
+Detailed_LanduseClassification,905013,خط أنابيب نفط مكشوف
+Detailed_LanduseClassification,905014,خط أنابيب غاز مدفون
+Detailed_LanduseClassification,905015,خط أنابيب غاز مكشوف
+Detailed_LanduseClassification,905016,خط أنابيب مياه مدفون
+Detailed_LanduseClassification,905017,خط أنابيب مياه مكشوف
+Detailed_LanduseClassification,905018,خط محيطي
+Detailed_LanduseClassification,905019,خط تقسيم
+Detailed_LanduseClassification,905020,خط حاجز مياه مستدير
+Detailed_LanduseClassification,905021,خط حاجز مياه مستقيم
+Detailed_LanduseClassification,905022,خط زاوية موازنة أفقية
+Detailed_LanduseClassification,905023,خط ساحل متغير
+Detailed_LanduseClassification,905024,خط ساحل ثابت
+Detailed_LanduseClassification,905025,خط سكة حديدية مزدوج
+Detailed_LanduseClassification,905026,خط سكة حديدية مفرد
+Detailed_LanduseClassification,905027,خط كهرباء ـ ضغط عالي
+Detailed_LanduseClassification,905028,خط كهرباء ـ محلي
+Detailed_LanduseClassification,905029,خط هاتف
+Detailed_LanduseClassification,905030,محل خطاط ورسام
+Detailed_LanduseClassification,905031,خطوط شبكة نظامإسقاط مركاتور العالمي
+Detailed_LanduseClassification,905032,خطوط مسح جوي عالية الارتفاع
+Detailed_LanduseClassification,905033,خطوط مسح جوي عرضية
+Detailed_LanduseClassification,905034,خطوط مسح جوي متوسطة الارتفاع
+Detailed_LanduseClassification,905035,خطوط مسح جوي منخفضة الارتفاع
+Detailed_LanduseClassification,905036,خور بحري
+Detailed_LanduseClassification,906001,رقم دائرة مركز صورة مسح جوي عالي الارتفاع
+Detailed_LanduseClassification,906002,رقم دائرة مركز صورة مسح جوي عرضي
+Detailed_LanduseClassification,906003,رقم دائرة مركز صورة مسح جوي متوسط الارتفاع
+Detailed_LanduseClassification,906004,رقم دائرة مركز صورة مسح جوي منخفض الارتفاع
+Detailed_LanduseClassification,906005,رمز أشجار متفرقة ـ غير نخيل
+Detailed_LanduseClassification,906006,رمز أشجار متفرقة ـ نخيل
+Detailed_LanduseClassification,906007,رمز بحيرة أو بركة
+Detailed_LanduseClassification,906008,رمز برج مياه
+Detailed_LanduseClassification,906009,رمز بركة سباحة
+Detailed_LanduseClassification,906010,رمز بروز صخري
+Detailed_LanduseClassification,906011,رمز بلدية
+Detailed_LanduseClassification,906012,رمز حديقة عامة
+Detailed_LanduseClassification,906013,رمز منجم
+Detailed_LanduseClassification,906014,رمز محور درب ترابي
+Detailed_LanduseClassification,906015,رمز محورلطريق تحت الإنشاء
+Detailed_LanduseClassification,906016,رمز محور طريق معبد
+Detailed_LanduseClassification,906017,رمز محورلنفق
+Detailed_LanduseClassification,906018,رمز درج
+Detailed_LanduseClassification,906019,رمز دورات مياه عمومية
+Detailed_LanduseClassification,906020,رمز سور طوب مبني
+Detailed_LanduseClassification,906021,رمز خزان نفط
+Detailed_LanduseClassification,906022,رمز خزان غاز
+Detailed_LanduseClassification,906023,رمز خزان ماء
+Detailed_LanduseClassification,906024,رمز حصن / قلعة
+Detailed_LanduseClassification,906025,رمز عمود كهرباء
+Detailed_LanduseClassification,906026,رمز مبنى حكومي
+Detailed_LanduseClassification,906027,رمز مبنى عام ـ مربع
+Detailed_LanduseClassification,906028,رمز مبنى عام ـ مستطيل
+Detailed_LanduseClassification,906029,رمز محجر
+Detailed_LanduseClassification,906030,رمز محطة تقوية إرسال مايكرويف
+Detailed_LanduseClassification,906031,رمز محطة ضخ زيت
+Detailed_LanduseClassification,906032,رمز محطة ضخ مياه
+Detailed_LanduseClassification,906033,رمز محطة وقود
+Detailed_LanduseClassification,906034,رمز مدرج هبوط أو إقلاع بدون مرافق مطار معتادة
+Detailed_LanduseClassification,906035,رمز مدرسة / كلية / جامعة
+Detailed_LanduseClassification,906036,رمز رافعة ثابتة
+Detailed_LanduseClassification,906037,رمز مرفأ
+Detailed_LanduseClassification,906038,رمز مرفق طبي
+Detailed_LanduseClassification,906039,رمز مركز إطفاء
+Detailed_LanduseClassification,906040,رمز قسم شرطة
+Detailed_LanduseClassification,906041,رمز مسجد محلي
+Detailed_LanduseClassification,906042,رمز مسجد جامع
+Detailed_LanduseClassification,906043,رمز مطار
+Detailed_LanduseClassification,906044,رمز معديــَّة (عبــَّارةبحرية)
+Detailed_LanduseClassification,906045,رمز معلم تاريخي / جمالي
+Detailed_LanduseClassification,906046,رمز مقبرة
+Detailed_LanduseClassification,906047,رمز مكتب بريد
+Detailed_LanduseClassification,906048,رمز مكتب هاتف عمومي
+Detailed_LanduseClassification,906049,رمز فنار (منارة بحرية)
+Detailed_LanduseClassification,906050,رمز منطقة ترويحية
+Detailed_LanduseClassification,906051,رمز مهبط طائرة هيلوكوبتر
+Detailed_LanduseClassification,906052,رمز موقف مركبات
+Detailed_LanduseClassification,906053,رمز نافورة
+Detailed_LanduseClassification,906054,رمز مقلب (مكب) نفايات
+Detailed_LanduseClassification,906055,رمز مولد طاقة / محطة توليد فرعية
+Detailed_LanduseClassification,906056,رموز متنوعة
+Detailed_LanduseClassification,906057,رمز مدرج هبوط و إقلاع
+Detailed_LanduseClassification,906058,رمز صوامعغلال
+Detailed_LanduseClassification,906059,رمز مبنى سلطة الموانيء
+Detailed_LanduseClassification,906060,رمز محطة معالجة مياه مجاري
+Detailed_LanduseClassification,906061,رمز مزرعة دواجن
+Detailed_LanduseClassification,906062,رمز مدخنة مصفاة تكرير نفط
+Detailed_LanduseClassification,906063,رمز مدخنة مصنع
+Detailed_LanduseClassification,906064,رمز برج اتصالات خلوية
+Detailed_LanduseClassification,906065,رمز منطقة الميناء
+Detailed_LanduseClassification,907001,تهشير أعشاب مائية
+Detailed_LanduseClassification,907002,تهشير حديقة
+Detailed_LanduseClassification,907003,تهشير سد
+Detailed_LanduseClassification,907004,تهشير درج
+Detailed_LanduseClassification,907005,تهشير سبخة طينية
+Detailed_LanduseClassification,907006,تهشير مبنى عام
+Detailed_LanduseClassification,907007,تهشير إنشاءات رأسية
+Detailed_LanduseClassification,907008,تهشير منطقة مبنية
+Detailed_LanduseClassification,907009,تهشير وادي
+Detailed_LanduseClassification,907010,رمز جزيرة وسطية لطريق معبد 10 ـ 15م
+Detailed_LanduseClassification,907011,طريق معبد 10 ـ 15م بدون خط منتصف
+Detailed_LanduseClassification,907012,رمز محورلطريق معبد 10 ـ 15م
+Detailed_LanduseClassification,907013,خط منتصف مفرد لطريق معبد 10 ـ 15م
+Detailed_LanduseClassification,907014,جزيرة وسطية لطريق معبد 10 ـ 15م
+Detailed_LanduseClassification,907015,رمزطريق معبد 10 ـ 15م بدون خط منتصف
+Detailed_LanduseClassification,907016,رمز جزيرة وسطية لطريق معبد 3 ـ 5 م
+Detailed_LanduseClassification,907017,رمز خط منتصف مفرد لطريق معبد 3 ـ 5 م
+Detailed_LanduseClassification,907018,رمز جزيرة وسطية لطريق معبد 3 ـ 5 م
+Detailed_LanduseClassification,907019,رمز عدم وجود خط منتصف لطريق معبد 3 ـ 5 م
+Detailed_LanduseClassification,907020,محور مركزي مفرد لطريق معبد 3 ـ 5 م
+Detailed_LanduseClassification,907021,طريق معبد 3 ـ 5 م بدون خط منتصف
+Detailed_LanduseClassification,907022,محور مركزي لطريق معبد 5 ـ 10 م
+Detailed_LanduseClassification,907023,رمز جزيرة وسطية لطريق معبد 5 ـ 7 م
+Detailed_LanduseClassification,907024,رمز عدم وجود خط منتصف لطريق معبد 5 ـ 7 م
+Detailed_LanduseClassification,907025,جزيرة وسطية لطريق معبد 5 ـ 7 م
+Detailed_LanduseClassification,907026,خط منتصف مفرد لطريق معبد 5 ـ 7 م
+Detailed_LanduseClassification,907027,طريق معبد 5 ـ 7 م بدون خط منتصف
+Detailed_LanduseClassification,907028,رمز خط منتصف مفرد لطريق معبد 5 ـ 7 م
+Detailed_LanduseClassification,907029,طريق معبد 7 ـ 10م بدون خط منتصف
+Detailed_LanduseClassification,907030,خط منتصف مفرد لطريق معبد 7 ـ 10م
+Detailed_LanduseClassification,907031,جزيرة وسطية لطريق معبد 7 ـ 10م
+Detailed_LanduseClassification,907032,رمز جزيرة وسطية لطريق معبد 7 ـ 10م
+Detailed_LanduseClassification,907033,رمز عدم وجود خط منتصف لطريق معبد 7 ـ 10م
+Detailed_LanduseClassification,907034,رمز خط منتصف مفرد لطريق معبد 7 ـ 10م
+Detailed_LanduseClassification,907035,خط منتصف لطريق معبد أقل من 5 م
+Detailed_LanduseClassification,907036,رمز طريق معبد أقل من 5 م
+Detailed_LanduseClassification,907037,رمز طريق معبد أكثر من 10 م
+Detailed_LanduseClassification,907038,خط منتصف لطريق معبد أكثر من 10م
+Detailed_LanduseClassification,907039,خط منتصف مفرد لطريق معبد أكثر من 15 م
+Detailed_LanduseClassification,907040,جزيرة وسطية لطريق معبد أكثر من 15 م
+Detailed_LanduseClassification,907041,رمز خط منتصف مفرد لطريق معبد أكثر من 15 م
+Detailed_LanduseClassification,907042,رمز جزيرة وسطية لطريق معبد أكثر من 15 م
+Detailed_LanduseClassification,907043,رمزخط منتصف مفرد لطريق معبد أكثر من 15 م
+Detailed_LanduseClassification,907044,رمز جزيرة وسطية لطريق معبد أكثر من 15 م
+Detailed_LanduseClassification,907045,رمز طريق معبد من 5 ـ 10
+Detailed_LanduseClassification,907046,رمزخط منتصف مفرد لطريق معبد
+Detailed_LanduseClassification,908001,خط كنتور دليل
+Detailed_LanduseClassification,908002,خط كنتور دليل تقريبي
+Detailed_LanduseClassification,908003,خط كنتور دليللمنخفض
+Detailed_LanduseClassification,908004,خط كنتور وسيط
+Detailed_LanduseClassification,908005,خط كنتور وسيطتقريبي
+Detailed_LanduseClassification,908006,خط كنتور وسيط لمنخفض
+Detailed_LanduseClassification,908007,خط كنتور بصري(أشباه خطوط كنتور لتضاريس لم تمسح بدقة)
+Detailed_LanduseClassification,908008,خط كنتور منخفضات
+Detailed_LanduseClassification,908009,خط كنتور مساعد ( نصف أو ربع الفاصل الرأسي بين خطوط الكنتور المتجاورة )
+Detailed_LanduseClassification,908010,خط كنتور تقريبي غير دقيق
+Detailed_LanduseClassification,908011,خط كنتور
+Detailed_LanduseClassification,908012,حدود التصوير الجوي لمقياس رسم : 1 : 20.000
+Detailed_LanduseClassification,908013,حدود التصوير الجوي لمقياس رسم : 1 : 45.000
+Detailed_LanduseClassification,908014,حدود الخرئط الخطية لمقياس رسم : 1 : 2.500
+Detailed_LanduseClassification,908015,حدود الخرائط الخطية لمقياس رسم : 1 : 10.000
+Detailed_LanduseClassification,908016,حدود الخرائط الخطية لمقياس رسم : 1 : 1000
+Detailed_LanduseClassification,908017,حدود الخرائط الخطية مقياس رسم : 1 : 20.000
+Detailed_LanduseClassification,908018,حدود التصوير الجوي مقياس رسم : 1 : 5.500
+Detailed_LanduseClassification,908019,تهشير بستان فاكهة
+Detailed_LanduseClassification,908020,تهشير بستان نخيل
+Detailed_LanduseClassification,908021,تهشير شاطيء حصوي
+Detailed_LanduseClassification,908022,تهشير غطاء نباتي ( شجيرات )
+Detailed_LanduseClassification,908023,تهشير منطقة حصباوية
+Detailed_LanduseClassification,908024,تهشير منطقة رملية
+Detailed_LanduseClassification,908025,تهشير منطقة كثبان رملية
+Detailed_LanduseClassification,908026,تهشير منطقة مزروعة
+Detailed_LanduseClassification,908027,تهشير مياه
+Detailed_LanduseClassification,908028,مواضع مستقبلات نظام تحديد المواقع
+Detailed_LanduseClassification,908029,نقطة ارتفاع مفردة على سطح مبنى
+Detailed_LanduseClassification,908030,نقاط ضبط أفقية ـ الشبكة الجيوديسية الوطنية
+Detailed_LanduseClassification,908031,نقطة رفع مساحي ثابتة
+Detailed_LanduseClassification,908032,نقاط ارتفاعـ الشبكة الجيوديسية الوطنية
+Detailed_LanduseClassification,908033,نقاط ضبط أرضي - مستوى عالي
+Detailed_LanduseClassification,908034,نقاط ضبط أرضي- مستوى متوسط
+Detailed_LanduseClassification,908035,نقاط ضبط أرضي - مستوى منخفض
+Detailed_LanduseClassification,908036,نقاط ضبط أرضيفي الشبكة الجيوديسية الوطنية
+Detailed_LanduseClassification,908037,نقاط ضبط أرضيـ عام
+Detailed_LanduseClassification,908038,نقاط شبكة نموذج ارتفاع محوسب
+Detailed_LanduseClassification,908039,المساحة التقريبية لنموذج ارتفاع محوسب
+Detailed_LanduseClassification,908040,منطقة مستثناة (محذوفة) من نموذج ارتفاع محوسب
+Detailed_LanduseClassification,908041,منطقة ذات معوقات طوبوغرافية مساحيا
+Detailed_LanduseClassification,908042,تصميم لوحات الخرائط مقياس رسم 1 : 1.000
+Detailed_LanduseClassification,908043,تصميم لوحاتخرائط مقياس رسم 1 : 10.000
+Detailed_LanduseClassification,908044,تصميم لوحات خرائط مقياس رسم 1 : 5.000
+Detailed_LanduseClassification,908045,قيم إحداثيات نظام إسقاط مركاتور العالمي
+Detailed_LanduseClassification,908046,بطاقة تعريف خريطة
+Detailed_LanduseClassification,908047,إتجاهالشمال
+Detailed_LanduseClassification,908048,تدرج كثافة الخطوط الهامة على الخريطة
+Detailed_LanduseClassification,908049,نقاط ضبط أرضي
+Detailed_LanduseClassification,908050,نقطة رفع مساحي ثابتة
+Detailed_LanduseClassification,90751,صنبور إطفاء
+Detailed_LanduseClassification,90752,قناة عاملة
+Detailed_LanduseClassification,90753,قناة خارج الخدمة (خربة)
+Detailed_LanduseClassification,1001001,سكنى - تجاري
+Detailed_LanduseClassification,1001002,سكنى - حكومي
+Detailed_LanduseClassification,1001003,سكنى - زراعي
+Detailed_LanduseClassification,1001004,سكنى - ترفيهي
+Detailed_LanduseClassification,1002001,تجاري - صناعي
+Detailed_LanduseClassification,1002002,تجاري - حكومي
+Detailed_LanduseClassification,1002003,تجاري - زراعي
+Detailed_LanduseClassification,1003001,حكومي - ترفيهي
+Detailed_LanduseClassification,1004001,زراعي - ترفيهي
+Detailed_LanduseClassification,1006001,تجاري - حكومي - صناعي
+Detailed_LanduseClassification,1006002,حكومي - سكنى - تجاري
+Detailed_LanduseClassification,1006003,حكومي - سكنى - تجاري - ترفيهي

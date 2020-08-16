@@ -4,11 +4,11 @@ import csv
 import os
 
 arcpy.env.overwriteOutput = True    # this for re write new data in old data and replace it 
-csvDomain = r"D:\filetest\csvDomain.csv"
-csvValueDomain = r"D:\filetest\csvValueDomain .csv"
+csvDomain = r'D:\Applications\SHP for Arcpy\ArcPy Code\Created\Files\csvDomain.csv'
+csvValueDomain = r'D:\Applications\SHP for Arcpy\ArcPy Code\Created\Files\csvValueDomain.csv'
 # Set the workspace (to avoid having to type in the full path to the data every time)
 arcpy.env.workspace = r"D:\filetest\out"
-gdb = "AmanaGDB.gdb"
+gdb = "DWHGDB.gdb"
 valeDoaminRowArr =[]  
 doaminRowArr =[]
 
@@ -21,11 +21,11 @@ CSVcreateDomin = open(csvDomain, "r")
 readers = csv.reader(CSVcreateDomin, "xls")
 for doaminRow in readers:
     doaminRowArr.append(doaminRow[0])
-    inFeatures = "AmanaGDB.gdb\Setage\FC_Point"
+    inFeatures = "DWHGDB.gdb\Setage\FC_Point"
     inField = "Name"
     print 'doaminRow[0]: '+ doaminRow[0]
     print 'doaminRow[1]: '+ doaminRow[1]
-    arcpy.CreateDomain_management("AmanaGDB.gdb", doaminRow[0], doaminRow[1], "TEXT", "CODED")
+    arcpy.CreateDomain_management("DWHGDB.gdb", doaminRow[0], doaminRow[1], "TEXT", "CODED")   #Not allows type data (text) 
     print 'Finish create Domain Name: '+ doaminRow[0]
 for valeDoaminRow in reader:
   for x in doaminRowArr:
